@@ -2,11 +2,24 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Através de pesquisas e consultas aos dados da Organização Pan-Americana de Saúde e do Conselho Federal de Psicologia foram levantados os pontos mais relevantes a serem tratados neste projeto. As informações coletadas foram consolidadas na forma de personas e histórias de usuários.
+
+
 
 ## Personas
+
+As personas levantadas durante o processo de entendimento do problema são apresentadas e detalhadas abaixo:
+
+Persona 1<br>
+Nome: Andreia Oliveira<br>
+Idade: 35<br>
+Ocupação: Gerente de Marketing<br>
+Estado Civil: Solteira<br>
+Formação: Publicidade e Propagand<br>
+
+<hr>
+
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
@@ -28,8 +41,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |  
+|Andreia Oliverira | saber sobre estabilidade emocional |poder ajudar a controlar sua própria ansiedade em momentos de estresse|
+|Andreia Oliveira | Ela quer um meio/recurso flexível que permita ela tratar seus problemas emocionais com a ajuda de um profissional | ser conveniente e acessível, pois tem uma agenda lotada e prefere evitar gastar tempo em deslocamento para consultas de terapia presencial|
+|Andreia Oliveira | Equilibrar a vida pessoal, emocional e profissional  | melhorar seu bem-estar e desenvolver sua confiança para seguir com sua vida após sua separação e ter sucesso em sua carreira|
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
