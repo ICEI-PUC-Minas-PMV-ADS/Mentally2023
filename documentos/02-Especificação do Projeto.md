@@ -41,7 +41,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |  
 |Andreia Oliverira | saber sobre estabilidade emocional |poder ajudar a controlar sua própria ansiedade em momentos de estresse|
 |Andreia Oliveira | Ela quer um meio/recurso flexível que permita ela tratar seus problemas emocionais com a ajuda de um profissional | ser conveniente e acessível, pois tem uma agenda lotada e prefere evitar gastar tempo em deslocamento para consultas de terapia presencial|
 |Andreia Oliveira | Equilibrar a vida pessoal, emocional e profissional  | melhorar seu bem-estar e desenvolver sua confiança para seguir com sua vida após sua separação e ter sucesso em sua carreira|
