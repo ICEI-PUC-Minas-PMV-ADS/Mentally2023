@@ -68,31 +68,36 @@ Um objetivo importante para o tratamento de pessoas com ansiedade e TDAH que uti
 Existem algumas vantagens da terapia online em relação à terapia tradicional em um aberto, que podem tornar-la uma opção mais atraente para algumas pessoas. Por exemplo, uma terapia online pode ser mais conveniente e acessível, permitindo que as pessoas se conectem com um terapeuta de qualquer lugar do mundo, a qualquer hora do dia ou da noite. Isso pode ser particularmente útil para pessoas que vivem em áreas rurais ou que têm dificuldade em se deslocar até um ansioso. 	
 
 
-<hr>
 
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O Estigma, a discriminação e violações de direitos humanos contra pessoas com estes problemas são comuns em comunidades. Em todos os países, são as pessoas mais pobres e desfavorecidas que correm maior risco de problemas de saúde mental e que também são as menos propensas a receber serviços adequados, o que caracteriza um problema claro no tratamento e acompanhamento destas patologias.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O tratamento em saúde mental pode enfrentar diversos desafios, tais como estigma, limitações de acesso aos serviços de saúde, diagnóstico preciso, falta de adesão ao tratamento e preconceitos culturais, o que resulta num  tratamento inadequado, a má qualidade dos cuidados prestados a muitos que recebem tratamento, prejudicam também o acesso aos cuidados e prevenção de doenças e impactam a qualidade de vida dos pacientes e suas famílias, pois, além do apoio dos serviços de saúde, pessoas com transtornos mentais precisam de apoio e cuidados sociais, necessitam da ajuda para acessar programas educativos que se adaptem às suas necessidades e que lhes permitam viver e ser ativos nas suas comunidades locais.
+
+A falta de acesso a profissionais por questões financeiras ou resistência somados à ausência de acompanhamento psicológico adequado são alguns dos fatores que podem explicar esse comportamento. Apesar de existirem estratégias para a prevenção¹ de transtornos mentais como a depressão e suicídio¹ , o acesso aos cuidados de saúde e aos serviços sociais capazes de proporcionar tratamento e apoio social ainda é bastante precário, apesar deste ser fundamental para o sucesso do tratamento. 
+
+É crucial que os profissionais de saúde trabalhem em conjunto com os pacientes e suas famílias para superar essas barreiras e oferecer tratamentos eficazes e acessíveis. Por exemplo, os indivíduos com autismo geralmente apresentam comportamentos repetitivos e específicos, bem como interesses restritos e intensos em certos assuntos. Esses comportamentos e interesses podem interferir na capacidade do indivíduo em se adequar à situações sociais e acadêmicas, bem como em sua qualidade de vida em geral. 
+
+O tratamento do autismo envolve uma abordagem multidisciplinar, que pode incluir terapia comportamental, terapia ocupacional, terapia da fala e medicamentos. É importante lembrar que o tratamento deve ser adaptado às necessidades individuais do paciente e às características de seu ambiente e contexto social.
+Como os sistemas de saúde ainda não respondem adequadamente à carga dos transtornos mentais, a distância entre a necessidade de tratamento e sua oferta é ampla não apenas no Brasil mas em todo o mundo. Em países de baixa e média renda, entre 76% e 85%² das pessoas com transtornos mentais não recebem tratamento, já em países de alta renda, esse número fica entre 35% e 50% das pessoas.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Embora a procura por saúde mental tenha aumentado nos últimos anos, o público alvo deste trabalho são pessoas que estão em busca de melhorar a sua saúde mental e que têm alguma restrição ao acesso à terapia presencial tradicional, como localização, custo e/ou horário. Elas se sentem confortáveis em utilizar uma plataforma digital para conseguir se envolver em uma terapia por meio de canais online, como videochamadas ou bate-papo, e não deixam de valorizar sua privacidade.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Podem estar apresentando sintomas como ansiedade, depressão, estresse ou problemas de relacionamento, e por isso, estão em busca de auto-aperfeiçoamento e desenvolvimento pessoal.
+
+As mulheres são mais acometidas a transtornos como depressão e ansiedade (ref. fig 1 e fig 2 abaixo), enquanto que os homens sofrem mais com outros tipos de desordens mentais.
+ 
+Desta forma, definiu-se como público-alvo desta solução são os homens e mulheres de 20 a 45 anos que se sentem à vontade para usar plataformas digitais.
+
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
