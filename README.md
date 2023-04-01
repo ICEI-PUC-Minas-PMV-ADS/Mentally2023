@@ -1,12 +1,14 @@
-# TÍTULO DO PROJETO
+# MENTE
 
-`CURSO`
+`Tecnologia em Análise e Desenv. de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Web Front-End `
 
 `SEMESTRE`
 Eixo 1 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+
+Um site para auxiliar pessoas em busca de saúde mental a encontrarem o tratamento correto que seja facilmente acessível.
+
 
 ## Integrantes
 
