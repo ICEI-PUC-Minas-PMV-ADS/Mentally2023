@@ -53,39 +53,37 @@
 |RF-001|O site tem que conseguir agendar e programar encontros com profissionais  da área da psicologia| ALTA | 
 |RF-002|O site deve conter um ícone representando o “Botão de Pânico” em todas as guias| ALTA |
 |RF-003|O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um conteúdo específico que será informado na caixa de pesquisa| ALTA |
-|RF-004|O site deve conter artigos, pesquisas e material sobre doenças mentais, métodos de autoajuda, contatos de apoio, estabilidade emocional e etc.| MÉDIA |
+|RF-004|O site deve conter artigos, pesquisas e material sobre doenças mentais| MÉDIA |
 |RF-005|O site deve possuir um fórum entre os participantes e profissionais para estimular conversas que auxiliem a recuperar a confiança individual| MÉDIA |
 |RF-006|O site deve possuir uma lista de recomendações periódicas para os usuários se guiarem, caso queiram |MÉDIA|
 |RF-007|O site deve permitir o usuário realizar um login de acesso a todas as funcionalidades da aplicação| ALTA |
-|RF-008|O site deve possuir um “Diário de Evolução Pessoal” do usuário |  |
+|RF-008|O site deve possuir um “Diário de Evolução Pessoal” do usuário |BAIXO|
 |RF-009|O site deve permitir que usuários possam comentar sobre os artigos na plataforma e conversar entre si|BAIXO|
 |RF-010|O site deve permitir salvar as notícias, artigos e vídeos preferidos|BAIXO|
-|RF-011| Controle de metas?  |  |
-|RF-012|  O site deve reproduzir músicas ambiente para auxiliar durante a leitura ? |  |
+|RF-011|O site deve conter métodos de autoajuda, contatos de apoio, estabilidade emocional e etc. |MÉDIA|
+|RF-012|O site deve reproduzir músicas ambiente para auxiliar durante a leitura | BAIXO |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | ALTA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| |   |
-|RNF-004|O site deve ser compatível com os principais navegadores do mercado|   |
-|RNF-005| |   |
-|RNF-006| |   |
+|RNF-002| O site deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado| ALTA  |
+|RNF-004| O site deve reproduzir músicas ambiente durante a leitura dos artigos | BAIXA  |
+|RNF-005| O site deve realizar o login em ate 10 segundos | MÉDIA  |
+|RNF-006|  |   |
 
 
 
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+<p Align="justify"> O projeto está restrito pelos itens apresentados na tabela a seguir. </P>
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| Etapa 01 do projeto deverá ser entregue ate dia 02/04/2023 |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
