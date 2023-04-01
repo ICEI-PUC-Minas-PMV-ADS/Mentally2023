@@ -3,91 +3,79 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 
-Através de pesquisas e consultas aos dados da Organização Pan-Americana de Saúde e do Conselho Federal de Psicologia foram levantados os pontos mais relevantes a serem tratados neste projeto. As informações coletadas foram consolidadas na forma de personas e histórias de usuários.
+<p Align="justify">Através de pesquisas e consultas aos dados da Organização Pan-Americana de Saúde e do Conselho Federal de Psicologia foram levantados os pontos mais relevantes a serem tratados neste projeto. As informações coletadas foram consolidadas na forma de personas e histórias de usuários.</p>
 
 
 
 ## Personas
 
-As personas levantadas durante o processo de entendimento do problema são apresentadas e detalhadas abaixo:
+<p Align="justify"> As personas levantadas durante o processo de entendimento do problema são apresentadas e detalhadas abaixo: </p>
 
-Persona 1<br>
-Nome: Andreia Oliveira<br>
-Idade: 35<br>
-Ocupação: Gerente de Marketing<br>
-Estado Civil: Solteira<br>
-Formação: Publicidade e Propagand<br>
+<div>
+ <img src="https://user-images.githubusercontent.com/127910122/229295954-37f27a57-cebd-4793-864d-8337c5d8c9be.jpeg">
+ </div>
 
-<hr>
+<div>
+ <img src=" ">
+ </div>
 
+<div>
+ <img src=" ">
+ </div>
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+<p Align="justify">Com base na análise das personas forma identificadas as seguintes histórias de usuários: </p>
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Andreia Oliverira | saber sobre estabilidade emocional |poder ajudar a controlar sua própria ansiedade em momentos de estresse|
-|Andreia Oliveira | Ela quer um meio/recurso flexível que permita ela tratar seus problemas emocionais com a ajuda de um profissional | ser conveniente e acessível, pois tem uma agenda lotada e prefere evitar gastar tempo em deslocamento para consultas de terapia presencial|
-|Andreia Oliveira | Equilibrar a vida pessoal, emocional e profissional  | melhorar seu bem-estar e desenvolver sua confiança para seguir com sua vida após sua separação e ter sucesso em sua carreira|
+|Andreia Oliveira | Saber sobre estabilidade emocional |Poder ajudar a controlar sua própria ansiedade em momentos de estresse|
+|Andreia Oliveira | Ela quer um meio/recurso flexível que permita ela tratar seus problemas emocionais com a ajuda de um profissional | Ser conveniente e acessível, pois tem uma agenda lotada e prefere evitar gastar tempo em deslocamento para consultas de terapia presencial|
+|Andreia Oliveira | Equilibrar a vida pessoal, emocional e profissional  | Melhorar seu bem-estar e desenvolver sua confiança para seguir com sua vida após sua separação e ter sucesso em sua carreira|
+|Pedro |Um meio imediato de controlar suas crises de ansiedade|Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho|
+|Pedro | Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho |
+|Pedro |Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se dispersar enquanto aprende algum conteúdo e conseguir tirar um bom proveito do tempo|
+|Carlos | Registrar seu estado emocional e suas variações ao longo dos dias e semanas |Conseguir visualizar sua própria evolução pessoal e pequenas conquistas de desenvolvimento|
+|Carlos |Poder realizar uma pesquisa acerca de um tema específico da área de saúde mental|Localizar tópicos específicos e conseguir maior objetividade em algumas leituras|
+|Carlos |Recomendações recorrentes para se atualizar a área|Conseguir se manter ativo e presente durante seu tratamento e evolução|
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+<p Align="justify"> As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.</p>
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001|O site tem que conseguir agendar e programar encontros com profissionais  da área da psicologia| ALTA | 
+|RF-002|O site deve conter um ícone representando o “Botão de Pânico” em todas as guias| ALTA |
+|RF-003|O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um conteúdo específico que será informado na caixa de pesquisa| ALTA |
+|RF-004|O site deve conter artigos, pesquisas e material sobre doenças mentais, métodos de autoajuda, contatos de apoio, estabilidade emocional e etc.| MÉDIA |
+|RF-005|O site deve possuir um fórum entre os participantes e profissionais para estimular conversas que auxiliem a recuperar a confiança individual| MÉDIA |
+|RF-006|O site deve possuir uma lista de recomendações periódicas para os usuários se guiarem, caso queiram |MÉDIA|
+|RF-007|O site deve permitir o usuário realizar um login de acesso a todas as funcionalidades da aplicação| ALTA |
+|RF-008|O site deve possuir um “Diário de Evolução Pessoal” do usuário |  |
+|RF-009|O site deve permitir que usuários possam comentar sobre os artigos na plataforma e conversar entre si|BAIXO|
+|RF-010|O site deve permitir salvar as notícias, artigos e vídeos preferidos|BAIXO|
+|RF-011| Controle de metas?  |  |
+|RF-012|  O site deve reproduzir músicas ambiente para auxiliar durante a leitura ? |  |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | ALTA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| |   |
+|RNF-004|O site deve ser compatível com os principais navegadores do mercado|   |
+|RNF-005| |   |
+|RNF-006| |   |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
 
 ## Restrições
 
@@ -101,6 +89,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
