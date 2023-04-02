@@ -83,6 +83,7 @@
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado| ALTA  |
 |RNF-004| O site deve reproduzir músicas ambiente durante a leitura dos artigos | BAIXA  |
 |RNF-005| O site deve realizar o login em ate 10 segundos | MÉDIA  |
+|RNF-006| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | MÉDIA  |
 
 ## Restrições
 
@@ -90,7 +91,7 @@
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| Etapa 01 do projeto deverá ser entregue ate dia 02/04/2023 |
+|01| Etapa 01 do projeto deverá ser entregue até dia 02/04/2023 |
 
 
 
