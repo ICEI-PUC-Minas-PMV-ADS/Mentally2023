@@ -38,11 +38,10 @@
 |Andreia Oliveira | Equilibrar a vida pessoal, emocional e profissional  | Melhorar seu bem-estar e desenvolver sua confiança para seguir com sua vida após sua separação e ter sucesso em sua carreira|
 |Pedro Ferreira|Um meio imediato de controlar suas crises de ansiedade|Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho|
 |Pedro Ferreira| Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho |
-|Pedro Ferreira|Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se dispersar enquanto aprende algum conteúdo e conseguir tirar um bom proveito do tempo|
 |Carlos Souza| Registrar seu estado emocional e suas variações ao longo dos dias e semanas |Conseguir visualizar sua própria evolução pessoal e pequenas conquistas de desenvolvimento|
 |Carlos Souza|Poder realizar uma pesquisa acerca de um tema específico da área de saúde mental|Localizar tópicos específicos e conseguir maior objetividade em algumas leituras|
 |Carlos Souza|Recomendações recorrentes para se atualizar sobre a área|Conseguir se manter ativo e presente durante seu tratamento e evolução|
-|Isabel Castillo|Tter um lugar para conversar e receber dicas de autocontrole|Conhecer diferentes meios de organização e se sentir acompanhada por outras pessoas|
+|Isabel Castillo|Ter um lugar para conversar e receber dicas de autocontrole|Conhecer diferentes meios de organização e se sentir acompanhada por outras pessoas|
 
 
 ## Requisitos
