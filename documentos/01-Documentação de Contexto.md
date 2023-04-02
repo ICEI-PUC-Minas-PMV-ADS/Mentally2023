@@ -79,7 +79,7 @@
 <p Align="justify">Desta forma, definiu-se como público-alvo desta solução os homens e mulheres de 20 a 45 anos e que possuem abertura para o tratamento em plataformas digitais. O gráfico abaixo quantifica a evolução dos registros por gênero de pessoas que são acometidas por condições mentais nos anos de 2018 e 2019.</p>
 
 <div Align="center">
-  <img src="https://user-images.githubusercontent.com/127910122/229365006-71088195-7c90-48d9-9f4e-8f4a8b4b4433.png">
+  <img src="https://user-images.githubusercontent.com/127910122/229365006-71088195-7c90-48d9-9f4e-8f4a8b4b4433.png"> <br>
 	Quadro de evolução de condições mentais
  </div>
 
