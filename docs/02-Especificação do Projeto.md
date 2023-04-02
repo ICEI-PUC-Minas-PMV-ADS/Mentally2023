@@ -91,7 +91,7 @@
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| Etapa 01 do projeto deverá ser entregue até dia 02/04/2023 |
-
-
+|RE-01| Etapa 01 do projeto deverá ser entregue até dia 02/04/2023 |
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho |
 
