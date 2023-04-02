@@ -4,8 +4,8 @@
 
 `Desenvolvimento de Aplicação Web Front-End `
 
-`SEMESTRE`
-Eixo 1 
+`EIXO 1`
+
 
 Um site para auxiliar pessoas em busca de saúde mental a encontrarem o tratamento correto que seja facilmente acessível.
 
@@ -29,7 +29,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Documentação
 
 <ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="documentos/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
