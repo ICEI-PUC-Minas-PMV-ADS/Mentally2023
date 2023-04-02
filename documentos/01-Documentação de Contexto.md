@@ -80,7 +80,7 @@
 
 <div Align="center">
   <img src="https://user-images.githubusercontent.com/127910122/229365006-71088195-7c90-48d9-9f4e-8f4a8b4b4433.png">
-	Imagem 1 - Quadro de evolução de condições mentais
+	Quadro de evolução de condições mentais
  </div>
 
 
