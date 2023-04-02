@@ -11,16 +11,27 @@
 
 <p Align="justify"> As personas levantadas durante o processo de entendimento do problema são apresentadas e detalhadas abaixo: </p>
 
+
 <div>
- <img src="https://user-images.githubusercontent.com/127910122/229295954-37f27a57-cebd-4793-864d-8337c5d8c9be.jpeg">
+  <img src="https://user-images.githubusercontent.com/127910122/229295954-37f27a57-cebd-4793-864d-8337c5d8c9be.jpeg" width="430">
+ </div>
+ 
+ <div>
+ <img src="https://user-images.githubusercontent.com/127910122/229362015-f8298353-3a51-418a-a1cc-9212d2168b85.png">
  </div>
 
 <div>
- <img src=" ">
+ <img src="https://user-images.githubusercontent.com/127910122/229360837-f0203939-d809-4eca-8cfa-b70d2dda37c2.png">
  </div>
+ 
 
 <div>
- <img src=" ">
+ <img src="https://user-images.githubusercontent.com/127910122/229360873-942ad13c-d27e-4c69-be05-13061af306dc.png">
+ </div>
+ 
+
+ <div>
+ <img src="https://user-images.githubusercontent.com/127910122/229360891-50d65682-c0ca-48db-b392-7a3489c98d32.png">
  </div>
 
 
@@ -33,13 +44,13 @@
 |Andreia Oliveira | Saber sobre estabilidade emocional |Poder ajudar a controlar sua própria ansiedade em momentos de estresse|
 |Andreia Oliveira | Ela quer um meio/recurso flexível que permita ela tratar seus problemas emocionais com a ajuda de um profissional | Ser conveniente e acessível, pois tem uma agenda lotada e prefere evitar gastar tempo em deslocamento para consultas de terapia presencial|
 |Andreia Oliveira | Equilibrar a vida pessoal, emocional e profissional  | Melhorar seu bem-estar e desenvolver sua confiança para seguir com sua vida após sua separação e ter sucesso em sua carreira|
-|Pedro |Um meio imediato de controlar suas crises de ansiedade|Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho|
-|Pedro | Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho |
-|Pedro |Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se dispersar enquanto aprende algum conteúdo e conseguir tirar um bom proveito do tempo|
-|Carlos | Registrar seu estado emocional e suas variações ao longo dos dias e semanas |Conseguir visualizar sua própria evolução pessoal e pequenas conquistas de desenvolvimento|
-|Carlos |Poder realizar uma pesquisa acerca de um tema específico da área de saúde mental|Localizar tópicos específicos e conseguir maior objetividade em algumas leituras|
-|Carlos |Recomendações recorrentes para se atualizar a área|Conseguir se manter ativo e presente durante seu tratamento e evolução|
-
+|Pedro Ferreira|Um meio imediato de controlar suas crises de ansiedade|Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho|
+|Pedro Ferreira| Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se sentir desamparado e desprevenido, seja quando precisar de ajuda ou estiver sozinho |
+|Pedro Ferreira|Se informar sobre saúde mental em um ambiente que o ajude a se concentrar |Não se dispersar enquanto aprende algum conteúdo e conseguir tirar um bom proveito do tempo|
+|Carlos Souza| Registrar seu estado emocional e suas variações ao longo dos dias e semanas |Conseguir visualizar sua própria evolução pessoal e pequenas conquistas de desenvolvimento|
+|Carlos Souza|Poder realizar uma pesquisa acerca de um tema específico da área de saúde mental|Localizar tópicos específicos e conseguir maior objetividade em algumas leituras|
+|Carlos Souza|Recomendações recorrentes para se atualizar a área|Conseguir se manter ativo e presente durante seu tratamento e evolução|
+|Isabel Castillo|Ter mais foco e atenção|Melhorar o dia a dia|
 
 
 ## Requisitos
@@ -72,10 +83,6 @@
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado| ALTA  |
 |RNF-004| O site deve reproduzir músicas ambiente durante a leitura dos artigos | BAIXA  |
 |RNF-005| O site deve realizar o login em ate 10 segundos | MÉDIA  |
-|RNF-006|  |   |
-
-
-
 
 ## Restrições
 
