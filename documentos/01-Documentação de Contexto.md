@@ -50,7 +50,7 @@
 
 ## Objetivos
 
-p Align="justify"> O objetivo geral deste trabalho é a criação de um portal de consultas online que apresenta ferramentas de fácil uso e que permita o acesso a um universo variado de recursos e informações sobre fatos ligados à área de saúde mental. </p>
+<p Align="justify"> O objetivo geral deste trabalho é a criação de um portal de consultas online que apresenta ferramentas de fácil uso e que permita o acesso a um universo variado de recursos e informações sobre fatos ligados à área de saúde mental. </p>
 
 <p Align="justify">Um objetivo específico para o tratamento de pessoas com ansiedade e TDAH que utilizam a terapia online é o desenvolvimento de estratégias eficazes de autogerenciamento. Isso inclui aprender a identificar e monitorar os sintomas de ansiedade e TDAH, bem como desenvolver habilidades para lidar com esses sintomas quando eles surgirem. Algumas estratégias úteis que podem ser trabalhadas durante a terapia online incluem técnicas de alongamento e relaxamento, meditação, terapia cognitivo-comportamental (TCC) e incorporação de atividades físicas e hobbies no cotidiano.  </p>
 
