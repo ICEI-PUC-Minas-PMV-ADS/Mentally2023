@@ -48,7 +48,7 @@ Auxiliar pessoas em busca de saúde mental a encontrarem o tratamento correto (a
 	  
 </ul>	
 
-<hr>
+
 
 <p Align="justify">Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.</p>
 
