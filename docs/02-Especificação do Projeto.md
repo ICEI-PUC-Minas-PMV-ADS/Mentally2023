@@ -12,27 +12,19 @@
 <p Align="justify"> As personas levantadas durante o processo de entendimento do problema são apresentadas e detalhadas abaixo: </p>
 
 
-<div>
-  <img src="https://user-images.githubusercontent.com/127910122/229295954-37f27a57-cebd-4793-864d-8337c5d8c9be.jpeg" width="430">
- </div>
+
  
  <div>
  <img src="https://user-images.githubusercontent.com/127910122/229362015-f8298353-3a51-418a-a1cc-9212d2168b85.png">
+  <img src="https://user-images.githubusercontent.com/127910122/229360837-f0203939-d809-4eca-8cfa-b70d2dda37c2.png">
  </div>
 
-<div>
- <img src="https://user-images.githubusercontent.com/127910122/229360837-f0203939-d809-4eca-8cfa-b70d2dda37c2.png">
- </div>
- 
 
 <div>
  <img src="https://user-images.githubusercontent.com/127910122/229360873-942ad13c-d27e-4c69-be05-13061af306dc.png">
+  <img src="https://user-images.githubusercontent.com/127910122/229360891-50d65682-c0ca-48db-b392-7a3489c98d32.png">
  </div>
  
-
- <div>
- <img src="https://user-images.githubusercontent.com/127910122/229360891-50d65682-c0ca-48db-b392-7a3489c98d32.png">
- </div>
 
 
 ## Histórias de Usuários
