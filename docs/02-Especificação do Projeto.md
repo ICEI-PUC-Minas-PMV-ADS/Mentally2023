@@ -42,7 +42,7 @@
 |Carlos Souza| Registrar seu estado emocional e suas variações ao longo dos dias e semanas |Conseguir visualizar sua própria evolução pessoal e pequenas conquistas de desenvolvimento|
 |Carlos Souza|Poder realizar uma pesquisa acerca de um tema específico da área de saúde mental|Localizar tópicos específicos e conseguir maior objetividade em algumas leituras|
 |Carlos Souza|Recomendações recorrentes para se atualizar sobre a área|Conseguir se manter ativo e presente durante seu tratamento e evolução|
-|Isabel Castillo|Ter mais foco e atenção|Melhorar o dia a dia|
+|Isabel Castillo|Tter um lugar para conversar e receber dicas de autocontrole|Conhecer diferentes meios de organização e se sentir acompanhada por outras pessoas|
 
 
 ## Requisitos
