@@ -72,9 +72,9 @@
 |RNF-001| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | ALTA | 
 |RNF-002| O site deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado| ALTA  |
-|RNF-004| O site deve reproduzir músicas ambiente durante a leitura dos artigos | BAIXA  |
-|RNF-005| O site deve realizar o login em ate 10 segundos | MÉDIA  |
-|RNF-006| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | MÉDIA  |
+|RNF-004| O site deve realizar o login em ate 10 segundos | MÉDIA  |
+|RNF-005| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku); | MÉDIA  |
+
 
 ## Restrições
 
