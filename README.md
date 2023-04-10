@@ -12,12 +12,11 @@ Um site para auxiliar pessoas em busca de saúde mental a encontrarem o tratamen
 
 ## Integrantes
 
-* Alessandra Leandro Kotsugai
+
 * Álvaro Gonçalves Rodrigues
 * Carlos Henrique Vilar De Almeida Malta
 * Gabriela Cristhyne Boaventura Pereira
-* Glauber Da Silva Santana
-* Tulio Vieira De Souza
+
 
 ## Orientador
 
