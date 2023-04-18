@@ -3,7 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 
-<p Align="justify">Através de pesquisas e consultas aos dados da Organização Pan-Americana de Saúde e do Conselho Federal de Psicologia foram levantados os pontos mais relevantes a serem tratados neste projeto. As informações coletadas foram consolidadas na forma de personas e histórias de usuários.</p>
+<p Align="justify">Através de pesquisas e consultas aos dados da Organização Pan-Americana de Saúde e do Conselho Federal de Psicologia foram levantados os pontos mais relevantes a serem tratados neste projeto. As informações coletadas foram consolidadas na forma de personas e histórias de usuários. </p>
 
 
 
