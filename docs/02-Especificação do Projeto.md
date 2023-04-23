@@ -53,17 +53,17 @@
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001|O site tem que conseguir agendar e programar encontros com profissionais  da área da psicologia| ALTA | 
-|RF-002|O site deve conter um ícone representando o “Botão de Pânico” em todas as guias| ALTA |
-|RF-003|O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um conteúdo específico que será informado na caixa de pesquisa| ALTA |
-|RF-004|O site deve conter artigos, pesquisas e material sobre doenças mentais| MÉDIA |
+|RF-002|O site deve conter um ícone representando o “Botão de Pânico” em todas as guias| MÉDIA |
+|RF-003|O site deve oferecer uma janela suspensa como função de atalho para o usuário| ALTA |
+|RF-004|O site deve conter artigos, pesquisas e material sobre doenças mentais, métodos de autoajuda, estabilidade emocional e contatos de apoio| MÉDIA |
 |RF-005|O site deve possuir um fórum entre os participantes e profissionais para estimular conversas que auxiliem a recuperar a confiança individual| MÉDIA |
 |RF-006|O site deve possuir uma lista de recomendações periódicas para os usuários se guiarem, caso queiram |MÉDIA|
 |RF-007|O site deve permitir o usuário realizar um login de acesso a todas as funcionalidades da aplicação| ALTA |
-|RF-008|O site deve possuir um “Diário de Evolução Pessoal” do usuário |BAIXO|
+|RF-008|O site deve possibilitar avaliar o atendimento das consultas |MÉDIO|
 |RF-009|O site deve permitir que usuários possam comentar sobre os artigos na plataforma e conversar entre si|BAIXO|
 |RF-010|O site deve permitir salvar as notícias, artigos e vídeos preferidos|BAIXO|
-|RF-011|O site deve conter métodos de autoajuda, contatos de apoio, estabilidade emocional e etc. |MÉDIA|
-|RF-012|O site deve reproduzir músicas ambiente para auxiliar durante a leitura | BAIXO |
+|RF-011|O site deve permitir que o usuário atualize seus dados a qualquer momento (perfil)|MÉDIA|
+|RF-012|O usuário terá acesso ao histórico de consulta  | MÉDIO |
 
 ### Requisitos não Funcionais
 
@@ -85,4 +85,7 @@
 |RE-01| Etapa 01 do projeto deverá ser entregue até dia 02/04/2023 |
 |RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho |
+
+
+
 
