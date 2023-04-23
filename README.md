@@ -1,4 +1,4 @@
-# MENTE
+# MENTALLY
 
 `Tecnologia em Análise e Desenv. de Sistemas`
 
