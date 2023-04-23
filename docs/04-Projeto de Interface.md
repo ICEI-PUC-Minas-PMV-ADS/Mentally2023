@@ -11,7 +11,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 
 <div>
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/issues/11#issue-1680141363">
+ <img src="https://user-images.githubusercontent.com/123635086/233860883-78f67de8-a529-4c3d-8e6e-b852f12bb4f9.jpg">
  <img src="https://user-images.githubusercontent.com/127910122/233854931-19596c4e-4314-4a2c-af1a-aaaee1e55bfc.png">
  </div>
 
