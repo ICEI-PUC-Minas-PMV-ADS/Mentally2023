@@ -34,7 +34,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira:
+
+
+- Scrum Master: Álvaro Gonçalves Rodrigues
+- Product Owner: Carlos Henrique Vilar De Almeida Malta
+- Equipe de Desenvolvimento: Álvaro Gonçalves Rodrigues, Carlos Henrique Vilar De Almeida Malta, Gabriela Cristhyne Boaventura Pereira
+- Equipe de Design: Álvaro Gonçalves Rodrigues
+
+
 
 
 
