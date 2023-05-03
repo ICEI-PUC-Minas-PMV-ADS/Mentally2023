@@ -19,10 +19,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 <p Align="justify">Para garantir a melhor experiência para o usuário, o site também atendera a diversos requisitos não funcionais, como ser responsivo e permitir a visualização em um celular de forma adequada, processar requisições do usuário em no máximo 3 segundos compatível, ser com os principais navegadores do mercado e realizar o login em até 10 segundos. Por fim, o site será publicado em um ambiente acessível publicamente na Internet, como Repl.it, GitHub Pages ou Heroku. Ao atender a esses requisitos, o site fornecera um ambiente seguro e eficaz para o suporte emocional e psicológico dos usuários. </p>
 
-<div Align="center">
- <img src="https://user-images.githubusercontent.com/123635086/233872884-c800b0d1-c2e3-415b-a57a-118cf496ccb4.png">
- <img src="https://user-images.githubusercontent.com/123635086/233871489-296c586b-878a-4aa6-a0b8-f0dd02a9a9ad.png">
- </div>
+listar os requisitos funcionais
  
 ## Wireframes
 
