@@ -19,7 +19,13 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 <p Align="justify">Para garantir a melhor experiência para o usuário, o site também atendera a diversos requisitos não funcionais, como ser responsivo e permitir a visualização em um celular de forma adequada, processar requisições do usuário em no máximo 3 segundos compatível, ser com os principais navegadores do mercado e realizar o login em até 10 segundos. Por fim, o site será publicado em um ambiente acessível publicamente na Internet, como Repl.it, GitHub Pages ou Heroku. Ao atender a esses requisitos, o site fornecera um ambiente seguro e eficaz para o suporte emocional e psicológico dos usuários. </p>
 
-listar os requisitos funcionais
+
+RF-01 O site tem que conseguir agendar e programar encontros com profissionais da área da psicologia <br>
+RF-03 O site deve oferecer uma janela suspensa como função de atalho para usuário<br>
+RF-07 O site deve permitir o usuário realizar um login de acesso a todas as funcionalidades da aplicação<br>
+RF-08 O site deve possibilitar avaliar o atendimento das consultas<br>
+RF-11 O site deve permitir que o usuario atualize seus dados a qualquer momento (perfil)<br>
+RF-12 O usuário terá acesso ao histórico de consulta<br>
  
 ## Wireframes
 
