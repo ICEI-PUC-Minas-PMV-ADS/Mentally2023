@@ -1,0 +1,40 @@
+
+/* Cabeçario,rodape: deixa o estilo do rodapé na estilazação principal*/
+
+/* corpo */
+
+main {
+	display: flex;
+	justify-content: center;
+}
+.container-espaco {
+background-color: #f0e1f1;
+padding: 150px;
+margin-top: 0;
+border: 1px solid #ebebeb;
+}
+
+.lista-menu{
+	padding: 0;
+	list-style: none;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+	}
+
+.btn-menu{
+	width: 15em;
+}	
+
+.dropName{
+	display: flex;
+  align-items: center;
+  }
+
+  .fixed-footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+  }
+  
