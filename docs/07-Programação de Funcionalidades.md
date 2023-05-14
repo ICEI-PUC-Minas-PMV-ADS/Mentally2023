@@ -6,10 +6,86 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+<hr>
+
+<i>Janela suspesa com atalho para usuário</i>
+
+  <b>Requisitos atendidos</b>
+<ul>
+  <li>RF-03 </li>
+</ul>
+
+<div algin="center">
+            <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/d4a1b515-7e03-4d0b-acfd-ddf958ecad13" alt="">
+            
+<br><br><br>
+
+<i>Realizar login</i>
+
+ <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-07 </li>
+</ul>
+  
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/cc3ae2a8-2afc-445a-b1b9-7b8442b8a566" alt="">
+        </div>
+
+<br><br><br>
+
+<i>Atualizar dados </i>
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-11 </li>
+</ul>
+
+ <div algin="center">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/67f9bda7-95e2-46ed-9600-e2d5918c5aff" alt="">
+</div>
+
+<br><br><br>
+
+
+<i>Agendar consultas</i>
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-01 </li>
+</ul>
+
+
+<div algin="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/5ae8c1d6-48df-4909-8a63-d5ddee0bed4a" alt="">
+</div>
+      
+      
+<br><br><br>
+
+
+<i>Histórico de consultas</i>
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-12 </li>
+</ul>
+
+<div algin="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/1fc37561-2398-4b07-be3f-e1c9b1c7d15d" alt="">
+</div>
+
+<br><br><br>      
+
+
+<i>Avaliar atendimento</i>
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-08 </li>
+</ul>
+
+<div algin="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/67c06161-d073-45f5-938b-4378a0977125" alt="">
+</div>
+      
+
+
