@@ -57,7 +57,10 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <div algin="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/5ae8c1d6-48df-4909-8a63-d5ddee0bed4a" alt="">
 </div>
-      
+
+ <div algin="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/1fc37561-2398-4b07-be3f-e1c9b1c7d15d" alt="">
+</div>     
       
 <br><br><br>
 
@@ -69,9 +72,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
   <li>RF-12 </li>
 </ul>
 
-<div algin="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/1fc37561-2398-4b07-be3f-e1c9b1c7d15d" alt="">
-</div>
+<p>imagem</p>
 
 <br><br><br>      
 
