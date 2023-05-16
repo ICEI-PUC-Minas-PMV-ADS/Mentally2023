@@ -98,7 +98,7 @@ function cadastrar(){
     msgError.innerHTML = ''
     
     setTimeout(()=>{
-        window.location.href = 'login.html' //mudar para login
+        window.location.href = 'index.html' //mudar para login
     }, 3000)
   
     
