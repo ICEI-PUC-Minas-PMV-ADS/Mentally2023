@@ -43,7 +43,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-https://alvarogr028.github.io/MentallyHospedagem/
+https://icei-puc-minas-pmv-ads.github.io/Mentally2023/src/mentally/
 
 # Armazenamento do Código-Fonte
 
