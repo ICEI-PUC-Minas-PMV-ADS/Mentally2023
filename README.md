@@ -42,8 +42,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 </ol>
 
 # Hospedagem
-
-https://icei-puc-minas-pmv-ads.github.io/Mentally2023/src/mentally/
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t5-Mentally/src/mentally/
 
 # Armazenamento do Código-Fonte
 
