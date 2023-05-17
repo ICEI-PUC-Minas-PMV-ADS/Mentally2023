@@ -4,7 +4,7 @@
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
-Segue o link da hospedagem: [https://alvarogr028.github.io/MentallyHospedagem/](https://icei-puc-minas-pmv-ads.github.io/Mentally2023/src/mentally/index.html)
+Segue o link da hospedagem: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t5-Mentally/src/mentally/
 
 
 ## Diagrama de componentes
