@@ -20,13 +20,13 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
             
 <br><br><br>
 
-<i>Realizar login</i> - login
+<i>Realizar login</i> - 
 
  <b><u>Requisitos atendidos</u></b>
 <ul>
   <li>RF-07 </li>
 </ul>
-  
+ <img src="docs/img/cadastro.png" alt="">
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/cc3ae2a8-2afc-445a-b1b9-7b8442b8a566" alt="">
         </div>
 
