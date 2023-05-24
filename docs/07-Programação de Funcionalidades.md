@@ -8,7 +8,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 <hr>
 
-<i>Janela suspesa com atalho para usuário</i>
+<i>Janela suspesa com atalho para usuário</i> - Alvaro
 
   <b>Requisitos atendidos</b>
 <ul>
@@ -20,7 +20,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
             
 <br><br><br>
 
-<i>Realizar login</i>
+<i>Realizar login</i> - login
 
  <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -32,7 +32,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 <br><br><br>
 
-<i>Atualizar dados </i>
+<i>Atualizar dados </i> - Gabriela
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -46,7 +46,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <br><br><br>
 
 
-<i>Agendar consultas</i>
+<i>Agendar consultas</i> - Carlos
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -65,7 +65,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <br><br><br>
 
 
-<i>Histórico de consultas</i>
+<i>Histórico de consultas</i> - Carlos
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -79,7 +79,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <br><br><br>      
 
 
-<i>Avaliar atendimento</i>
+<i>Avaliar atendimento</i> - Alvaro
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
