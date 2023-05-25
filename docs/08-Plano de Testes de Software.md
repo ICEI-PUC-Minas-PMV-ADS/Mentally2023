@@ -1,5 +1,53 @@
 # Plano de Testes de Software
 
+
+<table border="2" width="100%">
+<tr>
+    <td>Caso de Teste </td>
+    <td>teste </td>
+</tr>
+
+<tr>
+    <td>Requisitos Associados</td>
+    <td>
+        <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+     </td>
+</tr>
+
+<tr>
+    <td>Objetivo do teste</td>
+    <td> </td>
+</tr>
+
+<tr>
+    <td>Passos</td>
+    <td> </td>
+</tr>
+
+<tr>
+    <td>Critérios de Êxitos</td>
+    <td> </td>
+</tr>
+
+</table>
+
+
+
+
+<hr>
+
+
+
+
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
 Segue um vídeo mostrando o site atual em atividade, executando os requisitos funcionais: https://drive.google.com/file/d/1WFWYU0pC5lDTKTd1g4LtuildQZUuZ26h/view?usp=sharing
