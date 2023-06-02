@@ -15,14 +15,14 @@
 
  
  <div>
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/1.jpeg">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/2.jpeg">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/1.jpeg" width=400px>
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/2.jpeg" width=400px>
  </div>
 
 
 <div>
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/3.jpeg">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/4.jpeg">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/3.jpeg" width=400px>
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/especificacoesProjeto/4.jpeg" width=400px>
  </div>
  
 
