@@ -26,6 +26,8 @@ RF-07 O site deve permitir o usuário realizar um login de acesso a todas as fun
 RF-08 O site deve possibilitar avaliar o atendimento das consultas<br>
 RF-11 O site deve permitir que o usuario atualize seus dados a qualquer momento (perfil)<br>
 RF-12 O usuário terá acesso ao histórico de consulta<br>
+RF-013	O site deverá conter frases de apoio para o usuário na homepage<br>
+RF-014	O site deverá, após o login, conter o nome do usuário na barra de navegação<br>
  
 ## Wireframes
 
