@@ -16,8 +16,9 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 </ul>
 
 <div algin="center">
-            <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/d4a1b515-7e03-4d0b-acfd-ddf958ecad13" alt="">
-            
+            <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/janelaSuspensaHomepage.png" alt="">
+             <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/janelaSuspensaUsuario.png" alt="">
+
 <br><br><br>
 
 <i>Realizar login</i> - Gabriela Cristhyne Boaventura Pereira
@@ -26,8 +27,8 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <ul>
   <li>RF-07 </li>
 </ul>
- <img src="./img/cadastro.png" alt="">
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/cc3ae2a8-2afc-445a-b1b9-7b8442b8a566" alt="">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/cadastro.png" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/login.png" alt="">
         </div>
 
 <br><br><br>
@@ -40,7 +41,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 </ul>
 
  <div algin="center">
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/67f9bda7-95e2-46ed-9600-e2d5918c5aff" alt="">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/perfil.png" alt="">
 </div>
 
 <br><br><br>
@@ -55,11 +56,11 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 
 <div algin="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/5ae8c1d6-48df-4909-8a63-d5ddee0bed4a" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/agendar.png" alt="">
 </div>
 
  <div algin="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/127910122/1fc37561-2398-4b07-be3f-e1c9b1c7d15d" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/agendamento.png" alt="">
 </div>     
       
 <br><br><br>
@@ -73,7 +74,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 </ul>
 
 <div algin="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/123635086/c6677fca-d90d-4233-8f21-88a9fe2c28ef" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/Historico.png" alt="">
 </div> 
 
 <br><br><br>      
@@ -87,7 +88,11 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 </ul>
 
 <div algin="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/123635086/7cbca7d9-ca33-4ef7-bd68-d9e84008442e" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/Historico.png" alt="">
+</div>
+
+<div algin="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/avaliacoesAntigas.png" alt="">
 </div>
       
 <br><br><br>      
@@ -101,7 +106,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 </ul>
 
 <div algin="center">
-  <img src="#" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/frases.png" alt="">
 </div>
 
 <br><br><br>      
@@ -115,6 +120,6 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 </ul>
 
 <div algin="center">
-  <img src="#" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/nomeUsuario.png" alt="">
 </div>
 
