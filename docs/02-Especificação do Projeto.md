@@ -64,6 +64,8 @@
 |RF-010|O site deve permitir salvar as notícias, artigos e vídeos preferidos|BAIXO|
 |RF-011|O site deve permitir que o usuário atualize seus dados a qualquer momento (perfil)|MÉDIA|
 |RF-012|O usuário terá acesso ao histórico de consulta  | MÉDIO |
+|RF-013|O site deverá conter frases de apoio para o usuário na homepage | BAIXO |
+|RF-014|O site deverá, após o login, conter o nome do usuário na barra de navegação | BAIXO |
 
 ### Requisitos não Funcionais
 
