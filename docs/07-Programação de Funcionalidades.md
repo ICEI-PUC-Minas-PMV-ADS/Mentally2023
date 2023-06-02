@@ -90,5 +90,31 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-pmv-ads-2023-1-e1-proj-web-t5-mente/assets/123635086/7cbca7d9-ca33-4ef7-bd68-d9e84008442e" alt="">
 </div>
       
+<br><br><br>      
 
+
+<i>Frases de apoio na homepage	</i> - Álvaro Gonçalves Rodrigues
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-12 </li>
+</ul>
+
+<div algin="center">
+  <img src="#" alt="">
+</div>
+
+<br><br><br>      
+
+
+<i>Nome do usuário na barra de navegação</i> - Álvaro Gonçalves Rodrigues
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-14 </li>
+</ul>
+
+<div algin="center">
+  <img src="#" alt="">
+</div>
 
