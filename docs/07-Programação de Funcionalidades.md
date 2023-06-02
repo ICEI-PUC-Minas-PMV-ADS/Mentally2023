@@ -8,7 +8,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 <hr>
 
-<i>Janela suspesa com atalho para usuário</i> - Alvaro
+<i>Janela suspesa com atalho para usuário</i> - Álvaro Gonçalves Rodrigues
 
   <b>Requisitos atendidos</b>
 <ul>
@@ -20,7 +20,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
             
 <br><br><br>
 
-<i>Realizar login</i> - 
+<i>Realizar login</i> - Gabriela Cristhyne Boaventura Pereira
 
  <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -32,7 +32,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 <br><br><br>
 
-<i>Atualizar dados </i> - Gabriela
+<i>Atualizar dados </i> - Gabriela Cristhyne Boaventura Pereira
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -46,7 +46,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <br><br><br>
 
 
-<i>Agendar consultas</i> - Carlos
+<i>Agendar consultas</i> - Carlos Henrique Vilar De Almeida Malta
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -65,7 +65,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <br><br><br>
 
 
-<i>Histórico de consultas</i> - Carlos
+<i>Histórico de consultas</i> - Carlos Henrique Vilar De Almeida Malta
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
@@ -79,7 +79,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 <br><br><br>      
 
 
-<i>Avaliar atendimento</i> - Alvaro
+<i>Avaliar atendimento</i> - Álvaro Gonçalves Rodrigues
 
   <b><u>Requisitos atendidos</u></b>
 <ul>
