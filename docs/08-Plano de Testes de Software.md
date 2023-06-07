@@ -272,7 +272,7 @@
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td>Verificar se frases de apoio aparecem no site e conferir se os botões de avançar e voltar as frases estão funcionando</td>
 </tr>
 
 <tr>
@@ -281,18 +281,18 @@
         <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li>Teste 1: Clicar no botão em formato de seta para a direita, quantas vezes quiser. </li>
+            <li>Teste 2: Clicar no botão em formato de seta para a esquerda, quantas vezes quiser. </li>
         </ol>
     </td>
 </tr>
 
 <tr>
     <td>Critérios de Êxitos</td>
-    <td> </td>
+    <td>
+        <p>Teste 1: A frase contida acima do botão ter se alterado para uma nova frase até o ponto que volte a frase inicial<p>
+        <p>Teste 2: A frase contida acima do botão ter retornado para uma frase anterior a que se alterou no teste 1.</p>
+    </td>
 </tr>
 
 </table>
@@ -310,7 +310,7 @@
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td>Verificiar se após fazer login no site, o mesmo apresenta um cumprimento e o nome do usuário no menu superiror </td>
 </tr>
 
 <tr>
@@ -319,18 +319,20 @@
         <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li>Teste 1: Realizar login e entrar no espaço do usuário </li>
+            <li>Teste 2: Acessar outras páginas dentro do espaço do usuário </li>
+            <li>Teste 3: Usar o menu de navegação clicando na logomarca ou no botão "sair" contido na janelas suspensa direita. </li>
         </ol>
     </td>
 </tr>
 
 <tr>
     <td>Critérios de Êxitos</td>
-    <td> </td>
+    <td>
+        <p>Teste 1: Conter a frase "Bem vindo, [usuario].</p>
+        <p>Teste 2: A frase está contida em outras páginas, além da inicial.</p>
+        <p>Teste 3: O usuário sai do site e precisa fazer novamente o login</p>
+    </td>
 </tr>
 
 </table>
