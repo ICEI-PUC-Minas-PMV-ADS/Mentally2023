@@ -4,37 +4,60 @@
 <table border="2" width="100%">
 <tr>
     <td>Caso de Teste </td>
-    <td> </td>
+    <td> Janela suspesa como atalhos para usuário </td>
 </tr>
 
 <tr>
     <td>Requisitos Associados</td>
-    <td> RF  </td>
+    <td> RF-03 </td>
 </tr>
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td> Verificar se todas as janelas suspensas estão aparecendo e se estão redirecionando as páginas. </td>
 </tr>
 
 <tr>
     <td>Passos</td>
     <td> 
-        <ol>
-            <li>Acessar navegador</li>
-            <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-        </ol>
-    </td>
+ <h3>Teste 1: Janela Suspensa "Espaço do Usuário" antes do Login</h3>
+<ol>
+  <li>Acessar navegador</li>
+  <li>Abrir site</li>
+  <li>Clicar em "Espaço do Usuário" na barra de navegação</li>
+  <li>Clicar em uma das opções da janela suspensa, que deverá ter aparecido</li>
+  <li>Clicar nos outros itens da janela suspensa nessa página e em diferentes páginas do site, antes de realizar o login na plataforma</li>
+</ol>
+
+<h3>Teste 2: Janela Suspensa "Espaço do Usuário" após o Login</h3>
+<ol>
+  <li>Acessar navegador</li>
+  <li>Abrir site</li>
+  <li>Realizar o login no site, se necessário, realizar o cadastro antes de logar</li>
+  <li>Logado, dentro da página "Espaço do Usuário", clicar em "Espaço do Usuário" na barra de navegação</li>
+  <li>Clicar em uma das opções da janela suspensa, que deverá ter aparecido</li>
+  <li>Clicar nos outros itens da janela suspensa, nessa página e em diferentes páginas do site, após realizar o login na plataforma, sem retornar na página inicial</li>
+</ol>
+
+<h3>Teste 3: Janela Suspensa "Bem vindo, [usuário]"</h3>
+<ol>
+  <li>Acessar navegador</li>
+  <li>Abrir site</li>
+  <li>Realizar o login no site, se necessário, realizar o cadastro antes de logar</li>
+  <li>Logado, dentro da página "Espaço do Usuário", clicar em "Bem-vindo, [usuário]" na barra de navegação</li>
+  <li>Clicar na 1ª das opções da janela suspensa, nessa página e em diferentes páginas do site, após realizar o login na plataforma, sem retornar na página inicial</li>
+  <li>Clicar na opção "Sair" da janela suspensa no Espaço do Usuário e em diferentes páginas do site, após realizar o login na plataforma, sem retornar na página inicial</li>
+</ol>
+  </td>
 </tr>
 
 <tr>
-    <td>Critérios de Êxitos</td>
-    <td> </td>
+   <td>Critérios de Êxito</td>
+   <td>
+      <p>Teste 1: Aparecer uma janela suspensa com 4 itens: "Espaço do Usuário"; "Agende sua Consulta Online"; "Confira seus agendamentos"; "Histórico de Consultas", todas redirecionando para a página de "LOGIN".</p>
+      <p>Teste 2: Aparecer uma janela suspensa com 4 itens: "Espaço do Usuário"; "Agende sua Consulta Online"; "Confira seus agendamentos"; "Histórico de Consultas", todas redirecionando para suas respectivas páginas.</p>
+      <p>Teste 3: Aparecer uma janela suspensa com 2 itens: "Alterar Perfil"; "Sair", ambas redirecionando para suas respectivas páginas.</p>
+    </td>
 </tr>
 
 </table>
@@ -42,13 +65,12 @@
 <table border="2" width="100%">
 <tr>
     <td>Caso de Teste </td>
-    <td> </td>
+    <td> Realizar login </td>
 </tr>
 
 <tr>
     <td>Requisitos Associados</td>
-    <td> 
-     </td>
+    <td> RF-07 </td>
 </tr>
 
 <tr>
@@ -83,13 +105,12 @@
 <table border="2" width="100%">
 <tr>
     <td>Caso de Teste </td>
-    <td> </td>
+    <td>Atualizar dados </td>
 </tr>
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>
-    </td>
+    <td>RF-11</td>
 </tr>
 
 <tr>
@@ -124,13 +145,12 @@
 <table border="2" width="100%">
 <tr>
     <td>Caso de Teste </td>
-    <td> </td>
+    <td> Agendar consultas </td>
 </tr>
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>
-     </td>
+    <td>RF-01</td>
 </tr>
 
 <tr>
@@ -165,13 +185,12 @@
 <table border="2" width="100%">
 <tr>
     <td>Caso de Teste </td>
-    <td> </td>
+    <td> Histórico de consultas </td>
 </tr>
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>
-     </td>
+    <td>RF-12</td>
 </tr>
 
 <tr>
@@ -206,13 +225,12 @@
 <table border="2" width="100%">
 <tr>
     <td>Caso de Teste </td>
-    <td> </td>
+    <td> Avaliar atendimento </td>
 </tr>
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>       
-     </td>
+    <td>RF-08</td>
 </tr>
 
 <tr>
@@ -241,25 +259,97 @@
 </tr>
 
 </table>
+<table border="2" width="100%">
+<tr>
+    <td>Caso de Teste </td>
+    <td> Frases de apoio na homepage </td>
+</tr>
+
+<tr>
+    <td>Requisitos Associados</td>
+    <td>RF-13</td>
+</tr>
+
+<tr>
+    <td>Objetivo do teste</td>
+    <td> </td>
+</tr>
+
+<tr>
+    <td>Passos</td>
+    <td> 
+        <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+    </td>
+</tr>
+
+<tr>
+    <td>Critérios de Êxitos</td>
+    <td> </td>
+</tr>
+
+</table>
+
+<table border="2" width="100%">
+<tr>
+    <td>Caso de Teste </td>
+    <td> Nome do usuário na barra de navegação  </td>
+</tr>
+
+<tr>
+    <td>Requisitos Associados</td>
+    <td>RF-14</td>
+</tr>
+
+<tr>
+    <td>Objetivo do teste</td>
+    <td> </td>
+</tr>
+
+<tr>
+    <td>Passos</td>
+    <td> 
+        <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+    </td>
+</tr>
+
+<tr>
+    <td>Critérios de Êxitos</td>
+    <td> </td>
+</tr>
+
+</table>
+
 
 <hr>
 
+> <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+
+>Segue um vídeo mostrando o site atual em atividade, executando os requisitos funcionais: https://drive.google.com/file/d/1WFWYU0pC5lDTKTd1g4LtuildQZUuZ26h/view?usp=sharing
 
 
+>Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
-
-Segue um vídeo mostrando o site atual em atividade, executando os requisitos funcionais: https://drive.google.com/file/d/1WFWYU0pC5lDTKTd1g4LtuildQZUuZ26h/view?usp=sharing
-
-
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+>Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
  
-## Ferramentas de Testes (Opcional)
+>## Ferramentas de Testes (Opcional)
 
-Comente sobre as ferramentas de testes utilizadas.
+>Comente sobre as ferramentas de testes utilizadas.
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
