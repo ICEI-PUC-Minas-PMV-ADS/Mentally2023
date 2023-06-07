@@ -9,17 +9,7 @@
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>
-        <ol>
-            <li>Acessar navegador</li>
-            <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-        </ol>
-     </td>
+    <td> RF  </td>
 </tr>
 
 <tr>
@@ -29,7 +19,17 @@
 
 <tr>
     <td>Passos</td>
-    <td> </td>
+    <td> 
+        <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+    </td>
 </tr>
 
 <tr>
@@ -47,16 +47,7 @@
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>
-        <ol>
-            <li>Acessar navegador</li>
-            <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-        </ol>
+    <td> 
      </td>
 </tr>
 
@@ -67,28 +58,8 @@
 
 <tr>
     <td>Passos</td>
-    <td> </td>
-</tr>
-
-<tr>
-    <td>Critérios de Êxitos</td>
-    <td> </td>
-</tr>
-
-</table>
-
-
-
-<table border="2" width="100%">
-<tr>
-    <td>Caso de Teste </td>
-    <td> </td>
-</tr>
-
-<tr>
-    <td>Requisitos Associados</td>
-    <td>
-        <ol>
+    <td> 
+         <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
             <li> </li>
@@ -97,17 +68,7 @@
             <li> </li>
             <li> </li>
         </ol>
-     </td>
-</tr>
-
-<tr>
-    <td>Objetivo do teste</td>
-    <td> </td>
-</tr>
-
-<tr>
-    <td>Passos</td>
-    <td> </td>
+    </td>
 </tr>
 
 <tr>
@@ -128,16 +89,7 @@
 <tr>
     <td>Requisitos Associados</td>
     <td>
-        <ol>
-            <li>Acessar navegador</li>
-            <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-        </ol>
-     </td>
+    </td>
 </tr>
 
 <tr>
@@ -147,7 +99,17 @@
 
 <tr>
     <td>Passos</td>
-    <td> </td>
+    <td> 
+         <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+    </td>
 </tr>
 
 <tr>
@@ -168,15 +130,6 @@
 <tr>
     <td>Requisitos Associados</td>
     <td>
-        <ol>
-            <li>Acessar navegador</li>
-            <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-        </ol>
      </td>
 </tr>
 
@@ -187,7 +140,17 @@
 
 <tr>
     <td>Passos</td>
-    <td> </td>
+    <td> 
+        <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+    </td>
 </tr>
 
 <tr>
@@ -208,15 +171,6 @@
 <tr>
     <td>Requisitos Associados</td>
     <td>
-        <ol>
-            <li>Acessar navegador</li>
-            <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-        </ol>
      </td>
 </tr>
 
@@ -227,7 +181,58 @@
 
 <tr>
     <td>Passos</td>
+    <td> 
+         <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+    </td>
+</tr>
+
+<tr>
+    <td>Critérios de Êxitos</td>
     <td> </td>
+</tr>
+
+</table>
+
+
+
+<table border="2" width="100%">
+<tr>
+    <td>Caso de Teste </td>
+    <td> </td>
+</tr>
+
+<tr>
+    <td>Requisitos Associados</td>
+    <td>       
+     </td>
+</tr>
+
+<tr>
+    <td>Objetivo do teste</td>
+    <td> </td>
+</tr>
+
+<tr>
+    <td>Passos</td>
+    <td> 
+        <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+            <li> </li>
+        </ol>
+    </td>
 </tr>
 
 <tr>
