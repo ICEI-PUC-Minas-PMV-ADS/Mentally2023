@@ -235,30 +235,34 @@
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td> Verificar quais maneiras são permitidas em enviar a avaliação da consulta. </td>
 </tr>
 
 <tr>
     <td>Passos</td>
     <td> 
-        <ol>
+         <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li>Realizar o Login</li>
+            <li>Após ter concluido um agendamento, ir em consultas passadas</li>
+            <li>Teste 1: Preencha todos os parâmetros de avaliação e clique em "Enviar Avaliação"</li>
+            <li>Teste 2: Preencha alguns dos parâmetros de avaliação, mas não todos e clique em "Enviar Avaliação"</li>
+            <li>Teste 3: Tente enviar sem preencher nenhum dos parâmetros de avaliação clicando em "Enviar Avaliação"</li>
         </ol>
-    </td>
 </tr>
 
 <tr>
     <td>Critérios de Êxitos</td>
-    <td> </td>
+    <td> 
+            <p>Teste 1: Ter enviado a avaliação.</p>
+            <p>Teste 2: Não ter enviado a avaliação.</p>
+            <p>Teste 3: Não ter enviado a avaliação.</p>
+    </td>
 </tr>
 
 </table>
+
 <table border="2" width="100%">
 <tr>
     <td>Caso de Teste </td>
