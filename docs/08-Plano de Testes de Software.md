@@ -70,12 +70,12 @@
 
 <tr>
     <td>Requisitos Associados</td>
-    <td> RF-07 </td>
+    <td> RF-007 O site deve permitir o usuário realizar um login de acesso a todas as funcionalidades da aplicação </td>
 </tr>
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td>Verificar se está cadastrando e realizando login no site </td>
 </tr>
 
 <tr>
@@ -84,18 +84,17 @@
          <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li>Visualizar a página principal ícone de cadastro e login </li>
+            <li>Clicar em cadastro </li>
+            <li>Realizar cadastro </li>
+            <li> Realizar login </li>
         </ol>
     </td>
 </tr>
 
 <tr>
     <td>Critérios de Êxitos</td>
-    <td> </td>
+    <td>Tem que clicar em cadastro, realizar o cadastramento inserindo nome, login e senha, realizar o login inserindo o login e senha. </td>
 </tr>
 
 </table>
@@ -110,18 +109,55 @@
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>RF-11</td>
+    <td>RF-011 O site deve permitir que o usuário atualize seus dados a qualquer momento (perfil)</td>
 </tr>
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td>Verificar se está conseguindo alterar perfil </td>
 </tr>
 
 <tr>
     <td>Passos</td>
     <td> 
          <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li> Clicar em login</li>
+            <li> Realizar login </li>
+            <li>Na tela Espaço do usuário clicar em Editar perfil </li>
+            <li>Atualizar informação que precisa ser alterada </li>
+        </ol>
+    </td>
+</tr>
+
+<tr>
+    <td>Critérios de Êxitos</td>
+    <td>Tem que clicar em cadastro, realizar o cadastramento inserindo nome, login e senha, realizar o login inserindo o login e senha. </td>
+</tr>
+
+</table>
+
+<table border="2" width="100%">
+<tr>
+    <td>Caso de Teste </td>
+    <td>Artigos sobre saúde mental  </td>
+</tr>
+
+<tr>
+    <td>Requisitos Associados</td>
+    <td>RF-004 O site deve conter artigos, pesquisas e material sobre doenças mentais, métodos de autoajuda, estabilidade emocional e contatos de apoio</td>
+</tr>
+
+<tr>
+    <td>Objetivo do teste</td>
+    <td>Verificar se os artigos estão aparecendo para leitura </td>
+</tr>
+
+<tr>
+    <td>Passos</td>
+    <td> 
+        <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
             <li> </li>
@@ -135,10 +171,13 @@
 
 <tr>
     <td>Critérios de Êxitos</td>
-    <td> </td>
+    <td>Abrir artigos para leitura. </td>
 </tr>
 
 </table>
+
+
+
 
 
 
