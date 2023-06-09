@@ -160,11 +160,9 @@
         <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li>Ir para tela Espaço do usuário</li>
+            <li>Clicar em Artigos </li>
+            <li>Selecionar artigo que deseja ler </li>
         </ol>
     </td>
 </tr>
