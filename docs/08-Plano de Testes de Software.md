@@ -1,4 +1,4 @@
-# Plano de Testes de Software
+# Plano de Testes de Software# Plano de Testes de Software
 
 
 <table border="2" width="100%">
@@ -187,12 +187,12 @@
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>RF-01</td>
+    <td>RF-001 O site tem que conseguir agendar e programar encontros com profissionais da área da psicologia </td>
 </tr>
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td> Agendar a consulta com a data, hora e nome do profissional na página de agendamentos </td>
 </tr>
 
 <tr>
@@ -201,10 +201,10 @@
         <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li>Realizar login </li>
+            <li>Clicar no botão de agendar a consulta </li>
+            <li>Selecionar a data, hora e profissional  </li>
+            <li>Conferir se agendou na página que será direcionada chamada “agendados”   </li>
             <li> </li>
         </ol>
     </td>
@@ -212,7 +212,10 @@
 
 <tr>
     <td>Critérios de Êxitos</td>
-    <td> </td>
+    <td>
+    <p> TESTE 1:  A consulta só pode ser marcada entre as 9:00 am as 17:00 pm. </p>
+    <p> TESTE 2: Tem que aparecer as informações de data, hora e profissional selecionadas nos agendamentos. </p>  
+    </td>
 </tr>
 
 </table>
@@ -227,12 +230,12 @@
 
 <tr>
     <td>Requisitos Associados</td>
-    <td>RF-12</td>
+    <td>RF-012 O usuário pode acessar o histórico das consultas passadas </td>
 </tr>
 
 <tr>
     <td>Objetivo do teste</td>
-    <td> </td>
+    <td>Consultar o histórico de consultas </td>
 </tr>
 
 <tr>
@@ -241,9 +244,9 @@
          <ol>
             <li>Acessar navegador</li>
             <li>Abrir site</li>
-            <li> </li>
-            <li> </li>
-            <li> </li>
+            <li>Realizar login </li>
+            <li>Clicar no botão "consultas passadas" </li>
+            <li>Abrir Histórico de consultas, com as consultas passadas </li>
             <li> </li>
             <li> </li>
         </ol>
@@ -252,7 +255,48 @@
 
 <tr>
     <td>Critérios de Êxitos</td>
-    <td> </td>
+    <td>
+    <p>TESTE 1: Deve ser mostrado as consultas passadas pelo usuário dentro de uma view </p>  
+    </td>
+</tr>
+
+</table>
+
+<table border="2" width="100%">
+<tr>
+    <td>Caso de Teste </td>
+    <td> Botão de pânico </td>
+</tr>
+
+<tr>
+    <td>Requisitos Associados</td>
+    <td>RF-002 O site deve conter um ícone representando o “Botão de Pânico” em todas as guias </td>
+</tr>
+
+<tr>
+    <td>Objetivo do teste</td>
+    <td>Aparecer o botão de pânico em todas as páginas quando o usuário logar</td>
+</tr>
+
+<tr>
+    <td>Passos</td>
+    <td> 
+         <ol>
+            <li>Acessar navegador</li>
+            <li>Abrir site</li>
+            <li>Realizar login </li>
+            <li>Botão de pânico aparecera assim que o login for concluído </li>
+            <li>Em caso de pânico, selecionar o botão de pânico no canto inferior direito  </li>
+        </ol>
+    </td>
+</tr>
+
+<tr>
+    <td>Critérios de Êxitos</td>
+    <td>
+    <p> TESTE 1: O botão tem que aparecer somente se estiver logado no site </p>  
+    <p> TESTE 2: O botão tem que direcionar para um link de Mindfulness e vídeos de relaxamentos </p>  
+    </td>
 </tr>
 
 </table>
