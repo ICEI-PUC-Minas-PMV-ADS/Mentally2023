@@ -205,7 +205,6 @@
             <li>Clicar no botão de agendar a consulta </li>
             <li>Selecionar a data, hora e profissional  </li>
             <li>Conferir se agendou na página que será direcionada chamada “agendados”   </li>
-            <li> </li>
         </ol>
     </td>
 </tr>
@@ -246,9 +245,7 @@
             <li>Abrir site</li>
             <li>Realizar login </li>
             <li>Clicar no botão "consultas passadas" </li>
-            <li>Abrir Histórico de consultas, com as consultas passadas </li>
-            <li> </li>
-            <li> </li>
+             <li>Abrir Histórico de consultas, com as consultas passadas </li>
         </ol>
     </td>
 </tr>
