@@ -1,4 +1,4 @@
-# Registro de Testes de Software
+# Registro de Testes de Software# Registro de Testes de Software
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
 
@@ -114,7 +114,9 @@
     
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+     <p> Está realizando o login com o usuário e senha cadastrado </p>
+     </td>
 </tr>    
 
 </table>
@@ -158,7 +160,9 @@
  
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+     <p> O usuário consegue alterar o perfil a qualquer momento que desejar </p>
+     </td>
 </tr>
 
 </table>
@@ -202,7 +206,9 @@
     
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+     <p> Os artigos estão abrindo </p>
+     </td>
 </tr>
 </table>
 
@@ -302,7 +308,9 @@
 </tr>
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+     <p> Após o encerramento da consulta, está sendo exibido ho histórico de consultas as informações </p>
+     </td>
 </tr>
 </table>
 
@@ -404,7 +412,10 @@
     
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+     <p> Enviou a avaliação preenchida </p>
+     <p> Não está enviado a acavaliação quando não preenchida </p>
+     </td>
 </tr>
     
 </table>
@@ -452,7 +463,10 @@
     
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+     <p> A frase é atualizada para uma nova de acordo que é clicado a seta </p>
+     <p> A frase retorna a que se alterou de acordo com o teste 1 </p>
+     </td>
 </tr>
     
 </table>
