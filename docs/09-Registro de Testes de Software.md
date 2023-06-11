@@ -349,7 +349,10 @@
     
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+         <p> O botão de pânico só aparece quando estiver logado no site.</p>
+         <p>O botão direciona para um link de Mindfulness e vídeos de relaxamentos.</p>
+    </td>
 </tr>
     
 </table>
