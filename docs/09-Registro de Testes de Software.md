@@ -62,8 +62,20 @@
       <p>Teste 3: Aparecer uma janela suspensa com 2 itens: "Alterar Perfil"; "Sair", ambas redirecionando para suas respectivas páginas.</p>
     </td>
 </tr>
+    
+<tr>
+     <td>Resultado do teste</td>
+    <td> 
+        <p>Os itens da janela suspensa redireciona para a tela login.</p>
+        <p>Logado janela suspensa redireciona para as telas correspondentes.</p>
+        <p>Logado janela suspensa com o nome do usuario redireciona para as telas correspondentes.</p>
+    </td>
+</tr>    
 
 </table>
+
+
+
 
 <table border="2" width="100%">
 <tr>
@@ -99,6 +111,11 @@
     <td>Critérios de Êxitos</td>
     <td>Tem que clicar em cadastro, realizar o cadastramento inserindo nome, login e senha, realizar o login inserindo o login e senha. </td>
 </tr>
+    
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>    
 
 </table>
 
@@ -138,8 +155,16 @@
     <td>Critérios de Êxitos</td>
     <td>Tem que clicar em cadastro, realizar o cadastramento inserindo nome, login e senha, realizar o login inserindo o login e senha. </td>
 </tr>
+ 
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>
 
 </table>
+
+
+
 
 <table border="2" width="100%">
 <tr>
@@ -174,7 +199,11 @@
     <td>Critérios de Êxitos</td>
     <td>Abrir artigos para leitura. </td>
 </tr>
-
+    
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>
 </table>
 
 
@@ -219,8 +248,17 @@
     <p> TESTE 2: Tem que aparecer as informações de data, hora e profissional selecionadas nos agendamentos. </p>  
     </td>
 </tr>
-
+    
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>
+    
 </table>
+
+
+
+
 
 
 
@@ -259,8 +297,15 @@
     <p>TESTE 1: Deve ser mostrado as consultas passadas pelo usuário dentro de uma view </p>  
     </td>
 </tr>
-
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>
 </table>
+
+
+
+
 
 <table border="2" width="100%">
 <tr>
@@ -298,8 +343,17 @@
     <p> TESTE 2: O botão tem que direcionar para um link de Mindfulness e vídeos de relaxamentos </p>  
     </td>
 </tr>
-
+    
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>
+    
 </table>
+
+
+
+
 
 
 
@@ -341,8 +395,18 @@
             <p>Teste 3: Não ter enviado a avaliação.</p>
     </td>
 </tr>
-
+    
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>
+    
 </table>
+
+
+
+
+
 
 <table border="2" width="100%">
 <tr>
@@ -379,8 +443,19 @@
         <p>Teste 2: A frase contida acima do botão ter retornado para uma frase anterior a que se alterou no teste 1.</p>
     </td>
 </tr>
-
+    
+<tr>
+     <td>Resultado do teste</td>
+     <td></td>
+</tr>
+    
 </table>
+
+
+
+
+
+
 
 <table border="2" width="100%">
 <tr>
@@ -419,7 +494,13 @@
         <p>Teste 3: O usuário sai do site e precisa fazer novamente o login</p>
     </td>
 </tr>
-
+<tr>
+     <td>Resultado do teste</td>
+     <td>
+         <p> Depois de logado a frase aparece em todas as telas do espaço do usuário.</p>
+         <p> Depois que sair tem que realizar login novamente.</p>
+    </td>
+</tr>
 </table>
 
 
