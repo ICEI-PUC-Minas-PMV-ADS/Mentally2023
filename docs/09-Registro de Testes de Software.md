@@ -251,7 +251,10 @@
     
 <tr>
      <td>Resultado do teste</td>
-     <td></td>
+     <td>
+        <p> Consulta não é agendada antes das 09:00 ou depois das 17:00.</p>
+         <p> Depois de agendado aparece na tela a data, hora e profissional.</p>
+    </td>
 </tr>
     
 </table>
