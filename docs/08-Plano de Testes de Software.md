@@ -1,4 +1,4 @@
-# Plano de Testes de Software# Plano de Testes de Software
+# Plano de Testes de Software
 
 
 <table border="2" width="100%">
