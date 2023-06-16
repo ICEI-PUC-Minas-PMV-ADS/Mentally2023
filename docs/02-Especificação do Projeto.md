@@ -53,7 +53,7 @@
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001|O site tem que conseguir agendar e programar encontros com profissionais  da área da psicologia| ALTA | 
-|RF-002|O site deve conter um ícone representando o “Botão de Pânico” em todas as guias| MÉDIA |
+|RF-002|O site deve conter um ícone representando o “Botão de Pânico”| MÉDIA |
 |RF-003|O site deve oferecer uma janela suspensa como função de atalho para o usuário| ALTA |
 |RF-004|O site deve conter artigos, pesquisas e material sobre doenças mentais, métodos de autoajuda, estabilidade emocional e contatos de apoio| MÉDIA |
 |RF-005|O site deve possuir um fórum entre os participantes e profissionais para estimular conversas que auxiliem a recuperar a confiança individual| MÉDIA |
