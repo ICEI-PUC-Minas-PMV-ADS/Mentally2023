@@ -121,3 +121,20 @@
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/nomeUsuario.png" alt="">
 </div>
 
+<br><br>
+
+
+<i>O site deve conter artigos, pesquisas e material sobre doenças mentais, métodos de autoajuda, estabilidade emocional e contatos de apoio</i> - Gabriela Cristhyne Boaventura Pereira
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-04 </li>
+</ul>
+
+<div algin="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/artigos.png" alt="">
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/artigo1.png" alt="">
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/artigo2.png" alt="">
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/artigo3.png" alt="">
+</div>
+
