@@ -22,6 +22,7 @@
 
 RF-01 O site tem que conseguir agendar e programar encontros com profissionais da área da psicologia <br>
 RF-03 O site deve oferecer uma janela suspensa como função de atalho para usuário<br>
+RF-04	O site deve conter artigos, pesquisas e material sobre doenças mentais, métodos de autoajuda, estabilidade emocional e contatos de apoio	MÉDIA
 RF-07 O site deve permitir o usuário realizar um login de acesso a todas as funcionalidades da aplicação<br>
 RF-08 O site deve possibilitar avaliar o atendimento das consultas<br>
 RF-11 O site deve permitir que o usuario atualize seus dados a qualquer momento (perfil)<br>
