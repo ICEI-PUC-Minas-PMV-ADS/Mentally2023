@@ -138,3 +138,20 @@
     <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/artigo3.png" alt="">
 </div>
 
+<br><br>
+
+
+<i>“Botão de Pânico”</i> - Carlos Henrique Vilar De Almeida Malta
+
+  <b><u>Requisitos atendidos</u></b>
+<ul>
+  <li>RF-04 </li>
+</ul>
+
+<div algin="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/btnGuias.png" alt="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/guias.png" alt="">
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/guia1.png" alt="">
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/guia2.png" alt="">
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/blob/main/docs/img/ProgramacaoFuncionalidades/guia3.png" alt="">
+</div>
