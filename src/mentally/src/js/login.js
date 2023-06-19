@@ -1,3 +1,30 @@
+function BtnPanico(){
+
+  const btnPanico = document.getElementById('botaopanico');
+  if (localStorage.getItem('userLogado')){
+    btnPanico.style.display = 'block';
+    console.log('teste');
+  } else { 
+    btnPanico.style.display = 'none'; 
+  }
+
+}
+
+BtnPanico();
+
+let btnPanico = document.querySelector('.fa-eye')
+
+btn.addEventListener('click', ()=>{
+  let inputSenha = document.querySelector('#senha')
+  
+  if(inputSenha.getAttribute('type') == 'password'){
+    inputSenha.setAttribute('type', 'text')
+  } else {
+    inputSenha.setAttribute('type', 'password')
+  }
+})
+
+
 let btn = document.querySelector('.fa-eye')
 
 btn.addEventListener('click', ()=>{
@@ -32,14 +59,14 @@ function entrar(){
     if(usuario.value == item.userCad && senha.value == item.senhaCad){
        
       userValid = {
-         nome: item.nomeCad,
-         user: item.userCad,
-         senha: item.senhaCad
+        idUser: item.id,
+        nome: item.nomeCad,
+        user: item.userCad,
+        senha: item.senhaCad
        }
       
     }
   })
-   
   if(usuario.value == userValid.user && senha.value == userValid.senha){
     window.location.href = 'espacoUsuario.html'
     

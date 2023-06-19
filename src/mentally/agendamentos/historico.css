@@ -1,12 +1,12 @@
-.botoesSuperiores{
+.botoesSuperiores {
   margin: 1.5em;
 }
 
 /* alinhamento do nome do usuario */
-.dropName{
-	display: flex;
+.dropName {
+  display: flex;
   align-items: center;
-  }
+}
 
 /* retangulo azul */
 .retangulo {
@@ -39,7 +39,7 @@
 }
 
 /* Parte da avaliação */
-#infoBox{
+#infoBox {
   border-radius: 5px;
   margin: 0 auto;
   padding: 15px;
@@ -63,8 +63,8 @@
   cursor: pointer;
 }
 
-#starBox{
-width: 14em;
+#starBox {
+  width: 14em;
 }
 
 .stars input[type="radio"] {
@@ -88,11 +88,11 @@ width: 14em;
   content: '\2605';
 }
 
-.stars input[type="radio"]:checked ~ label {
+.stars input[type="radio"]:checked~label {
   color: #ffc107;
 }
 
-.stars{
+.stars {
   direction: rtl;
 }
 
@@ -107,52 +107,53 @@ width: 14em;
 
 
 /* Botões  */
-  .caixaBotoes {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-left: auto;
-  }
-  #saveBtn {
-    display: inline-block;
-    vertical-align: top;
-    border-radius: 5px;
-    padding: 3px;
-    width: 10em;
-    color: white;
-    background-color: rgb(38, 214, 22);
-    border: 1px solid black;
-    border-radius: 5px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 1em;
-    cursor: pointer;
-  }
+.caixaBotoes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: auto;
+}
 
-  #limpar{
-    display: inline-block;
-    vertical-align: top;
-    border-radius: 5px;
-    padding: 3px;
-    width: 10em;
-    color: white;
-    background-color: rgb(227, 129, 10);
-    border: 1px solid black;
-    border-radius: 5px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 1em;
-    cursor: pointer;
-  }
+#saveBtn {
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 5px;
+  padding: 3px;
+  width: 10em;
+  color: white;
+  background-color: rgb(38, 214, 22);
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  cursor: pointer;
+}
 
-  /* avaliacoes antigas */
-.boxAvaliacoes{
+#limpar {
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 5px;
+  padding: 3px;
+  width: 10em;
+  color: white;
+  background-color: rgb(227, 129, 10);
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  cursor: pointer;
+}
+
+/* avaliacoes antigas */
+.boxAvaliacoes {
   margin-top: 5em;
 
 }
@@ -175,3 +176,12 @@ width: 14em;
 	bottom: 0;
 	width: 100%;
   } */
+
+.panico {
+  margin: auto;
+  width: 3em;
+  height: 3em;
+  display: flex;
+  justify-content: flex-end;
+
+}

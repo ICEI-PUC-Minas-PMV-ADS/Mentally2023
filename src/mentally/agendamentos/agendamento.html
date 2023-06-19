@@ -22,7 +22,6 @@
 			<a class="navbar-brand" href="../index.html"><img src="../src/Imagens/Mentally.png" alt="..."
 					class="rounded-circle" width="100"></a>
 
-
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado"
 				aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
 				<span class="navbar-toggler-icon"></span>
@@ -47,11 +46,19 @@
 							<div class="dropdown-divider"></div>
 							<a class="dropdown-item" href="agendamento.HTML">Confira seus agendamentos</a>
 							<div class="dropdown-divider"></div>
-							<a class="dropdown-item" href="historicoConsultas.HTML">Historico de consultas</a>
+							<a class="dropdown-item" href="historicoConsultas.HTML">Historico de
+								consultas</a>
 						</div>
 					</li>
-
+					<li class="nav-item active">
+						<a class="nav-link" href="../artigos.html">Artigos <span class="sr-only">(página atual)</span></a>
+					</li>
 				</ul>
+				<div class="btnPanico">
+					<a href="../metodos.html">
+						<img class="panico" src="../src/Imagens/estresse.png">
+					</a>
+				</div>
 				<div>
 
 					<ul class="navbar-nav mr-0">
@@ -74,9 +81,8 @@
 	</header>
 
 	<div class="botoesSuperiores">
-		<a type="button" class="btn btn-info" href="agendar.HTML">Novo agendamento</a>
-		<a type="button" class="btn btn-info" href="historicoConsultas.HTML">Consulta passadas</a>
-		<a type="button" class="btn btn-warning" href="../metodos.html"> Guias</a>
+		<a type="button" class="btn btn-info" href="agendar.html">Novo agendamento</a>
+		<a type="button" class="btn btn-info" href="historicoConsultas.html">Consulta passadas</a>
 	</div>
 
 	<div class="retangulo">
@@ -100,16 +106,19 @@
 
 				<div class="instrucoes">
 					<h5>Instruções para realização da consulta</h5>
-					<p>Ao clicar em "Entre em contato" você será redirecionado para ao chat com seu atendente, junto a uma mensagem pré gravada que deverá ser encaminhada para o Psicologo.</p>
-					<p>Após isso o profissional encaminhará um link para seu Atendimento Online pela plataforma "MEET do Google". A plataforma deve estar instalada em seu dispositivo móvel ou realizar o acesso pela Web.</p>
+					<p>Ao clicar em "Entre em contato" você será redirecionado para ao chat com seu atendente, junto a
+						uma mensagem pré gravada que deverá ser encaminhada para o Psicologo.</p>
+					<p>Após isso o profissional encaminhará um link para seu Atendimento Online pela plataforma "MEET do
+						Google". A plataforma deve estar instalada em seu dispositivo móvel ou realizar o acesso pela
+						Web.</p>
 
 				</div>
 
 				<!-- Iniciar conversa no WhatsApp -->
 				<div class="caixaBotoes">
-				<button id="encerrarConsulta" type="submit" onclick="concluirConsulta()">Confirmar Consulta</button>
-				
-				<button id="cancelarConsulta" href="#">Cancelar Consulta</button>
+					<button id="encerrarConsulta" type="submit" onclick="concluirConsulta()">Confirmar Consulta</button>
+
+					<button id="cancelarConsulta" href="#" onclick="cancelarConsulta()">Cancelar Consulta</button>
 				</div>
 			</div>
 

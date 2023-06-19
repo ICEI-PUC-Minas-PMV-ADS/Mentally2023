@@ -1,3 +1,7 @@
+.dropName {
+  display: flex;
+  align-items: center;
+}
 .containerMetodos {
     display: flex;
     flex-direction: column; /* Colocar os botões em coluna */

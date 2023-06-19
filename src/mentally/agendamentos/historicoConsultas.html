@@ -22,7 +22,6 @@
 			<a class="navbar-brand" href="../index.html"><img src="../src/Imagens/Mentally.png" alt="..."
 					class="rounded-circle" width="100"></a>
 
-
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado"
 				aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
 				<span class="navbar-toggler-icon"></span>
@@ -47,12 +46,21 @@
 							<div class="dropdown-divider"></div>
 							<a class="dropdown-item" href="agendamento.HTML">Confira seus agendamentos</a>
 							<div class="dropdown-divider"></div>
-							<a class="dropdown-item" href="historicoConsultas.HTML">Historico de consultas</a>
+							<a class="dropdown-item" href="historicoConsultas.HTML">Historico de
+								consultas</a>
 						</div>
 					</li>
-
+					<li class="nav-item active">
+						<a class="nav-link" href="../artigos.html">Artigos <span class="sr-only">(página atual)</span></a>
+					</li>
 				</ul>
+				<div class="btnPanico">
+					<a href="../metodos.html">
+						<img class="panico" src="../src/Imagens/estresse.png">
+					</a>
+				</div>
 				<div>
+
 					<ul class="navbar-nav mr-0">
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle dropName" href="#" id="navbarDropdown" role="button"
@@ -73,9 +81,8 @@
 	</header>
 
 	<div class="botoesSuperiores">
-		<a type="button" class="btn btn-info" href="agendar.HTML">Agendar</a>
-		<a type="button" class="btn btn-info" href="agendamento.HTML">agendamentos</a>
-		<a type="button" class="btn btn-warning" href="../metodos.html"> Guias</a>
+		<a type="button" class="btn btn-info" href="agendar.html">Agendar</a>
+		<a type="button" class="btn btn-info" href="agendamento.html">agendamentos</a>
 	</div>
 
 	<main>
@@ -142,14 +149,15 @@
 					<div class="comments">
 						<p>Comentários ajudam a ver como podemos te ajudar! </p>
 						<textarea id="comment" rows="5" cols="70"
-							placeholder="Digite seus comentários aqui... (Máx. 400 Caracteres)" maxlength="400"></textarea>
+							placeholder="Digite seus comentários aqui... (Máx. 400 Caracteres)"
+							maxlength="400"></textarea>
 						<form name="Cadastro" method="GET" action="src/js/script.js"></form>
 					</div>
 
 
 					<div class="caixaBotoes">
 						<button id="saveBtn">Enviar Avaliação</button>
-						<button id="limpar" href="#">Limpar</button>
+						<button id="limpar" href="#" onclick="limparAvaliacao()">Limpar</button>
 					</div>
 
 				</div>
@@ -199,4 +207,3 @@
 </body>
 
 </html>
-

@@ -78,12 +78,23 @@ confirmSenha.addEventListener('keyup', () => {
   }
 })
 
+let counter = 0;
+
+function generateUniqueNumber() {
+  const timestamp = Date.now(); // Obtém o timestamp atual em milissegundos
+  const uniqueNumber = timestamp + counter;
+  counter++;
+  return uniqueNumber;
+}
+
+
 function cadastrar(){
   if(validNome && validUsuario && validSenha && validConfirmSenha){
     let listaUser = JSON.parse(localStorage.getItem('listaUser') || '[]')
     
     listaUser.push(
     {
+      id: generateUniqueNumber(),
       nomeCad: nome.value,
       userCad: usuario.value,
       senhaCad: senha.value

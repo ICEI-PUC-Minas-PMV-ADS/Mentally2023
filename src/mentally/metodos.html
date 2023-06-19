@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="src/css/metodos.css">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
+
 </head>
 
 <body>
@@ -42,13 +43,13 @@
 							Espaço do Usuário
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="espacoUsuario.HTML">Espaço do Usuário</a>
+							<a class="dropdown-item" href="espacoUsuario.html">Espaço do Usuário</a>
 							<div class="dropdown-divider"></div>
-							<a class="dropdown-item" href="agendamentos/agendar.HTML">Agende sua Consulta Online</a>
+							<a class="dropdown-item" href="agendamentos/agendar.html">Agende sua Consulta Online</a>
 							<div class="dropdown-divider"></div>
-							<a class="dropdown-item" href="agendamentos/agendamento.HTML">Confira seus agendamentos</a>
+							<a class="dropdown-item" href="agendamentos/agendamento.html">Confira seus agendamentos</a>
 							<div class="dropdown-divider"></div>
-							<a class="dropdown-item" href="agendamentos/historicoConsultas.HTML">Historico de
+							<a class="dropdown-item" href="agendamentos/historicoConsultas.html">Historico de
 								consultas</a>
 						</div>
 					</li>
@@ -62,9 +63,7 @@
 					<ul class="navbar-nav mr-0">
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle dropName" href="#" id="navbarDropdown" role="button"
-								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">  
-                 <span id='logado'></span>
-              </a>	
+								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <p id='logado'></p> </a>	
 
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 								<a class="dropdown-item" href="perfilUsuario.html">Alterar Perfil</a>
@@ -77,36 +76,63 @@
 			</div>
 		</nav>
 	</header>
-
-  <main>
-
-    <div class="containerMetodos">
-      <a href="meditacao.html"><button type="button" class="btn btn-secondary btn-lg btn-block">Meditação</button></a>
-      <a href="yoga.html"><button type="button" class="btn btn-secondary btn-lg btn-block">Yoga</button></a>
-      <a href="panico.html"><button type="button" class="btn btn-secondary btn-lg btn-block">MindFulness</button></a>
-
-    </div>
+ 
+    <main>
     
+<div class="containerMetodos">
+  <a href="meditacao.html"><button type="button" class="btn btn-secondary btn-lg btn-block">Meditação</button></a>
+  <a href="yoga.html"><button type="button" class="btn btn-secondary btn-lg btn-block">Yoga</button></a>
+  <a href="panico.html"><button type="button" class="btn btn-secondary btn-lg btn-block">MindFulness</button></a>
 
-    <div align="center">
+</div>
+<br><br><br>
 
-      <a class="navbar-brand" href="yoga.html">
-        <img src="src/Imagens/yogaArvore.png" alt="..." class="rounded-circle" width="300">
-      </a>
+      <div align="center">
 
-      <a class="navbar-brand" href="meditacao.html">
-        <img src="src/Imagens/meditacao.png" alt="..." class="rounded-circle" width="300">
-      </a>
+        <a class="navbar-brand" href="yoga.html">
+          <img src="src/Imagens/yogaArvore.png" alt="..." class="rounded-circle" width="300">
+        </a>
 
-      <a class="navbar-brand" href="panico.html">
-        <img src="src/Imagens/guia.png" alt="..." class="rounded-circle" width="300">
-      </a>
+        <a class="navbar-brand" href="meditacao.html">
+          <img src="src/Imagens/meditacao.png" alt="..." class="rounded-circle" width="300">
+        </a>
 
+        <a class="navbar-brand" href="panico.html">
+          <img src="src/Imagens/guia.png" alt="..." class="rounded-circle" width="300">
+        </a>
+
+
+
+
+
+              
+      </div>
+
+
+
+
+      </main>
+
+
+      
+  <!-- "Paragrafo com Imagem" 
+  <div class="jumbotron jumbotron-fluid bg-transparent">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="media align-self-center">
+            <img src="src/Imagens/ligacao.png" width="100%" class="mr-5" alt="...">
+          </div>
+        </div>
+        <div class="col-md-6 align-self-center">
+          <div class="text-center">
+            <p class="lead">"Experimente a comodidade e flexibilidade da terapia online e descubra como cuidar da sua
+              saúde mental nunca foi tão fácil e acessível."</p>
+          </div>
+        </div>
+      </div>
     </div>
-  </main>
-
-
-
+  </div>-->
 
   <!-- Rodapé -->
   <footer class="border-top text-muted bg-dark">
@@ -121,8 +147,33 @@
 
 
 
+
+
   <!-- JavaScript (Opcional) -->
-  <script src="src/js/nomeUser.js"></script>
+  <script> //trocar as frases do inicio
+    // Define um array com as frases que serão exibidas no carrossel
+    var frases = [
+      "Cuidar da sua saúde mental é um ato de amor-próprio.",
+      "Sua saúde mental vale muito mais do que qualquer trabalho. ",
+      "Você não está sozinho. Busque ajuda sempre que precisar! ",
+      "Não devemos ser o produto das nossas circunstâncias, mas sim o resultado das nossas decisões. Para hoje, escolha cuidar mais de você.",
+      "Tire um tempinho para meditar, descansar o corpo e cuidar da sua saúde mental. O amor-próprio deve vir sempre em primeiro lugar. "
+    ];
+    
+    // Inicializa o contador de frases
+    var indiceFrase = 0;
+    
+    // Adiciona um listener de clique no botão "Trocar frase"
+    $("#trocar-frase").on("click", function() {
+      // Incrementa o contador de frases e define o novo conteúdo do parágrafo
+      indiceFrase++;
+      if (indiceFrase >= frases.length) {
+        indiceFrase = 0;
+      }
+      $("#frase").text(frases[indiceFrase]);
+    });
+  </script>
+  	<script src="src/js/nomeUser.js"></script>
 
   <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -134,7 +185,7 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
     integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
     crossorigin="anonymous"></script>
-
+ 
 </body>
 
 </html>
