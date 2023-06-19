@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A estruturação de um site em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação segue uma abordagem organizada e separada por pastas. Os diferentes componentes do site, como HTML, imagens, JavaScript (JS) e CSS, são agrupados em diretórios específicos para facilitar a manutenção e a organização do projeto.
 
 Segue o link da hospedagem: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t5-Mentally/src/mentally/
 
