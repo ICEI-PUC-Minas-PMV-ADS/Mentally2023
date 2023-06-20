@@ -25,6 +25,39 @@ Projeto com o objetivo de criar um site para auxiliar pessoas em busca de saúde
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
+<br>
+Acesso ao Site:
+Abra o navegador da web de sua preferência (Google Chrome, Mozilla Firefox, etc.).
+Digite o endereço do site 
+Pressione Enter para acessar o site.
+Criação de Conta:
+Na página inicial, clique no botão "Cadastro".
+Preencha o formulário de registro com suas informações pessoais, como nome, Usuário e senha.
+Clique no botão "Cadastrar" para criar sua conta.
+Login:
+Assim que cadastrar vai ser direcionado para a tela de Login.
+Insira seu usuário e senha nos campos correspondentes.
+Clique no botão "Entrar" para fazer login na sua conta.
+Agendamento de Consulta:
+Após fazer login,  você será direcionado para a página”Espaço do Usuário” que tem a opção “Agende sua consulta” ou “agende sua consulta online” no cabeçalho do site.
+Escolha a data, hora e o profissional desejados para a consulta a partir das opções disponíveis e clique em “Agendar”.
+Detalhes da Consulta:
+Após agendar a consulta vai aparecer o agendamento e as instruções para realização da consulta.
+Gerenciamento de Consultas:
+Faça login na sua conta sempre que precisar gerenciar suas consultas agendadas.
+No Espaço do usuário em “Meus agendamentos” , você poderá visualizar ou cancelar suas consultas, se necessário.
+Preparação para a Consulta:
+Antes da consulta, certifique-se de estar familiarizado com as instruções específicas fornecidas pelo psicólogo ou pelo site.
+Prepare-se mentalmente para a sessão e organize suas perguntas ou tópicos a serem discutidos durante a consulta.
+Verifique se você possui uma conexão estável com a internet e um ambiente tranquilo para realizar a consulta.
+Feedback e Avaliação:
+Após a consulta, você poderá realizar seu feedback clicando em “Confirmar Consulta”
+
+
+
+
+
+
 # Documentação
 
 <ol>
