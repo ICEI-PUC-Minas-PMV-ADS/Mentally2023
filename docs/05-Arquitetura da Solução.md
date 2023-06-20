@@ -2,9 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A estruturação de um site em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação segue uma abordagem organizada e separada por pastas. Os diferentes componentes do site, como HTML, imagens, JavaScript (JS) e CSS, são agrupados em diretórios específicos para facilitar a manutenção e a organização do projeto.
 
-Segue o link da hospedagem: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t5-Mentally/src/mentally/
+
 
 
 ## Diagrama de componentes
@@ -58,7 +58,8 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/assets/127910122/931fc5c9-3be0-41ce-ab6d-7c87f0a5c552" alt="">
+
 
 
 ## Tecnologias Utilizadas
@@ -70,11 +71,4 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+Segue o link da hospedagem: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t5-Mentally/src/mentally/
