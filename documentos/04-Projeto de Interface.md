@@ -8,8 +8,8 @@
 
 
 <div Align="justify">
- <img src="https://user-images.githubusercontent.com/123635086/233860883-78f67de8-a529-4c3d-8e6e-b852f12bb4f9.jpg">
- <img src="https://user-images.githubusercontent.com/127910122/233854931-19596c4e-4314-4a2c-af1a-aaaee1e55bfc.png">
+ <img src="../docs/img/projetoInterface/fluxograma.jpg">
+ <img src="../docs/img/projetoInterface/prototipo.png">
  </div>
 
 <p Align="justify">Para que o site que ofereça suporte emocional e psicológico aos usuários possa funcionar em conformidade, é necessário que ele atenda a diversos requisitos funcionais. Por exemplo, o site permitirá que os usuários agendem e programem encontros com profissionais da área da psicologia, além disso, o site oferecera uma janela suspensa como função de atalho para o usuário, para que ele possa acessar rapidamente as funcionalidades do site. Outras funcionalidades importantes incluem a possibilidade de o usuário realizar um login de acesso a todas as funcionalidades da aplicação e avaliação das consultas. </p>
