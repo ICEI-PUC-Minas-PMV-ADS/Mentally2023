@@ -58,7 +58,8 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t5-Mentally/assets/127910122/931fc5c9-3be0-41ce-ab6d-7c87f0a5c552" alt="">
+
 
 
 ## Tecnologias Utilizadas
