@@ -7,7 +7,7 @@
 `EIXO 1`
 
 
-Um site para auxiliar pessoas em busca de saúde mental a encontrarem o tratamento correto que seja facilmente acessível.
+Projeto com o objetivo de criar um site para auxiliar pessoas em busca de saúde mental a encontrarem o tratamento correto que seja facilmente acessível.
 
 
 ## Integrantes
