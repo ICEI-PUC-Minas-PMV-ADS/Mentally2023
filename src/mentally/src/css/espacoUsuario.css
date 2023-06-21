@@ -52,3 +52,9 @@ main {
 	justify-content: flex-end;
 
 }
+
+@media screen and (max-width: 1440px) and (max-height: 900px) {
+	.fixed-footer {
+		position: relative;
+	}
+}

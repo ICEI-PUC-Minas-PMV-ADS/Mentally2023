@@ -184,3 +184,13 @@
   justify-content: flex-end;
 
 }
+
+#lista {
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
+}
+
+#lista button {
+  cursor: pointer;
+}

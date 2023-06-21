@@ -28,10 +28,11 @@ form.addEventListener('submit', (event) => {
     } else if (nome == '') {
         alert('É necessario informar um profissional');
     } else {
+        const agendamentoArray = JSON.parse(localStorage.getItem('agendamentoArray') || '[]');
+        const status = 0;
 
-        const status = 0; 
         const agendamento = {data, hora, nome, status, idUsuarioAgendamento: idUser.idUser, idAgendamento };
-
+        console.log(agendamentoArray)
         // Aqui você pode enviar o agendamento para o servidor
         localStorage.setItem("data", agendamento.data);
         localStorage.setItem("hora", agendamento.hora);
@@ -40,10 +41,12 @@ form.addEventListener('submit', (event) => {
         localStorage.setItem("idUsuarioAgendamento", agendamento.idUsuarioAgendamento);
         localStorage.setItem("idAgendamento", agendamento.idAgendamento);
 
+
+        console.log(agendamento.idUsuarioAgendamento)
+        console.log(idUser.idUser)
+        agendamentoArray.push(agendamento)
+        localStorage.setItem("agendamentoArray", JSON.stringify(agendamentoArray));
         window.location.href = "agendamento.html";
     }
-
-
-
 });
 

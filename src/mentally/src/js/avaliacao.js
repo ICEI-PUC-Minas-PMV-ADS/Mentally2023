@@ -35,6 +35,7 @@ saveBtn.addEventListener("click", () => {
 
   if (comment && rating1 && rating2 && rating3) {
     const userLogado = JSON.parse(localStorage.getItem("userLogado"));
+    const keyAgendamento = localStorage.getItem("keyAgendamento")
     const review = {
 
       rating1,
@@ -42,9 +43,9 @@ saveBtn.addEventListener("click", () => {
       rating2,
 
       rating3,
-      hora: agendamento.hora,
-      data: agendamento.data,
-      medico: agendamento.nome,
+      hora: agendamento[keyAgendamento].hora,
+      data: agendamento[keyAgendamento].data,
+      medico: agendamento[keyAgendamento].nome,
       comment,
       idUser: userLogado.idUser,
       idAgendamento: JSON.parse(localStorage.getItem("idAgendamento"))
@@ -179,18 +180,43 @@ window.addEventListener('load', function () {
         <br>
         Atenção do Profissional: ${review.rating1}/5 Pontualidade: ${review.rating2}/5 Satisfação com a sessão: ${review.rating3}/5;
           <p>Comentários: ${review.comment}</p>
-  
+          <button class="delete-button">Deletar</button>
+
         `;
   
         reviewCards.appendChild(card);
-      }
-      
 
+        const deleteButton = card.querySelector('.delete-button');
+        deleteButton.addEventListener('click', function () {
+          // Remove o review do localStorage
+          removeReview(review);
+
+          // Remove o elemento card da interface
+          card.remove();
+        });
+      }
+    });
+  }
+});
+
+function removeReview(review) {
+  if (localStorage.getItem('reviews')) {
+    const reviews = JSON.parse(localStorage.getItem('reviews'));
+
+    // Encontra o índice do review no array
+    const index = reviews.findIndex(function (r) {
+      return r.id === review.id;
     });
 
-  }
+    if (index !== -1) {
+      // Remove o review do array
+      reviews.splice(index, 1);
 
-});
+      // Atualiza o localStorage com o array modificado
+      localStorage.setItem('reviews', JSON.stringify(reviews));
+    }
+  }
+}
 
 function limparAvaliacao (){
   document.getElementById('comment').value = "";
