@@ -1,6 +1,6 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+
 
 A estruturação de um site em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação segue uma abordagem organizada e separada por pastas. Os diferentes componentes do site, como HTML, imagens, JavaScript (JS) e CSS, são agrupados em diretórios específicos para facilitar a manutenção e a organização do projeto.
 
@@ -22,10 +22,6 @@ A solução implementada conta com os seguintes módulos:
      - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
  - **News API** - plataforma que permite o acesso às notícias exibidas no site.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
 
 <p>A imagem a seguir ilustra o fluxo do usuário em nossa solução. Assim que o usuário entra no site, ele é apresentado à tela inicial (Tela 1)  onde tem as opções Espaço do Usuário (Janela Suspensa), O que oferecemos, Quem somos, Cadastro, Login e Frases de apoio.</p>
 <p>Caso ele opte por seguir pelo Espaço do Usuário, ele será redirecionado para a tela de Login (Tela 3), onde poderá realizar login para acessar o espaço, mas caso não tenha cadastro ainda tem a opção Cadastre-se na tela de Login que será redirecionado para a tela de cadastro (Tela 2).Assim que realizar o cadastro vai ser redirecionado para a tela de Login, onde poderá realizar o login e ter acesso ao Espaço do Usuário.</p>
