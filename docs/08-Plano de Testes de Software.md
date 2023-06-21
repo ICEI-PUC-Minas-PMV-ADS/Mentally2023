@@ -424,8 +424,6 @@
 
 
  
->## Ferramentas de Testes (Opcional)
 
->Comente sobre as ferramentas de testes utilizadas.
  
 
