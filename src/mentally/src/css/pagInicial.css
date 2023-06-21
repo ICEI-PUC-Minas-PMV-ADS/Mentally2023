@@ -6,8 +6,6 @@
   font-size: 24px;
 }
 
-
-
 .displayInicial, .leadInicial, #frase{
     text-align: center;
 }
@@ -30,6 +28,10 @@
     scroll-margin-top: 10em;
   }
   
+#frase{
+  font-size:1.3em;
+}
+
   .setas-frase {
     display: flex;
     justify-content: center;

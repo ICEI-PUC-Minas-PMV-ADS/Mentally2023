@@ -40,7 +40,7 @@ function concluirConsulta(){
   // Quando o botão for clicado
   document.getElementById('whatsappBtn').addEventListener('click', function() {
     // Número de telefone do psicólogo (incluindo o código do país, sem "+" ou "-")
-    var phoneNumber = '5531999736059';
+    var phoneNumber = '5531999999999';
     
     // Mensagem opcional a ser enviada junto com a conversa
     var message = 'Olá, gostaria de iniciar a minha consulta.';
