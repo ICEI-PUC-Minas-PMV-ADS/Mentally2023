@@ -32,9 +32,20 @@ A solução implementada conta com os seguintes módulos:
 >
 > - [Whimsical](https://whimsical.com/)
 
-A imagem a seguir ilustra o fluxo do usuário em nossa solução. Assim que o usuário entra no site, ele é apresentado à tela inicial (Tela 1)  onde tem as opções Espaço do Usuário, O que oferecemos, Quem somos, Cadastro, Login e Frases de apoio.
-<br>
-Caso ele opte por seguir pelo Espaço do Usuário, ele será redirecionado para a tela de Login (Tela 3), onde poderá realizar login para acessar o espaço, mas caso não tenha cadastro ainda tem a opção Cadastre-se na tela de Login que será redirecionado para a tela de cadastro (Tela 2).
+<p>A imagem a seguir ilustra o fluxo do usuário em nossa solução. Assim que o usuário entra no site, ele é apresentado à tela inicial (Tela 1)  onde tem as opções Espaço do Usuário (Janela Suspensa), O que oferecemos, Quem somos, Cadastro, Login e Frases de apoio.</p>
+<p>Caso ele opte por seguir pelo Espaço do Usuário, ele será redirecionado para a tela de Login (Tela 3), onde poderá realizar login para acessar o espaço, mas caso não tenha cadastro ainda tem a opção Cadastre-se na tela de Login que será redirecionado para a tela de cadastro (Tela 2).Assim que realizar o cadastro vai ser redirecionado para a tela de Login, onde poderá realizar o login e ter acesso ao Espaço do Usuário.</p>
+
+<p>Assim que  entrar no Espaço do Usuário (Tela 4)  vai ter algumas opções, como: janela suspensa com as opções do espaço do usuário, Artigos, Botão de auto ajuda e mensagem de “Bem-vindo, Usuário”.</p>
+
+<p>Ao selecionar “Agende sua consulta” será redirecionado para a tela de agendamento (Tela 6), onde seleciona a data, hora e o profissional desejados para a consulta a partir das opções disponíveis e clique em “Agendar”, que será redirecionado para a tela com as instruções para realização da consulta (Tela 7). </p>
+
+<p>Ao confirmar a consulta (Tela 7) ou indo em “Meus agendamentos” (Tela 4) e confirmando a consulta será redirecionado para a tela de avaliação (Tela 8), onde poderá avaliar a consulta.</p>
+
+
+<p>Na tela Espaço do Usuário (Tela 4) tem a opção Editar perfil, onde será redirecionado para uma tela (Tela 5) onde consegue inserir e alterar informações do usuário.</p>
+
+<p>Nas telas  Espaço do Usuário (Tela 4), Agende sua consulta (Tela 6), Meus agendamentos (Tela 7) e na Avaliação (Tela 8) aparece as opções Artigos (Tela 9), onde tem alguns artigos sobre saúde mental e ansiedade, e Ícone para a tela de auto ajuda (Tela 10) onde tem alguns vídeos de meditação, yoga e alguns textos mindfulness.</p>
+
 
 
 
