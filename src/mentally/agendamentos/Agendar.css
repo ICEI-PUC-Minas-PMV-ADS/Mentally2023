@@ -1,3 +1,4 @@
+
 .botoesSuperiores {
   margin: 1.5em;
 }
@@ -11,7 +12,6 @@
   background-color: rgb(66, 136, 177);
   margin: 0 auto;
 }
-
 
 button {
   -webkit-box-shadow: 2px 2px 15px 6px rgba(0, 0, 0, 0.34);
@@ -49,7 +49,7 @@ ul {
   list-style: none;
 }
 
-
+ /*alinhamento do nome*/
 .dropName {
   display: flex;
   align-items: center;
