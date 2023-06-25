@@ -7,7 +7,7 @@
 `EIXO 1`
 
 
-Projeto com o objetivo de criar um site para auxiliar pessoas em busca de saúde mental a encontrarem o tratamento correto que seja facilmente acessível.
+Projeto tem o objetivo de criar um site para auxiliar pessoas em busca de saúde mental a encontrarem o tratamento correto que seja facilmente acessível.
 
 
 ## Integrantes
@@ -23,7 +23,7 @@ Projeto com o objetivo de criar um site para auxiliar pessoas em busca de saúde
 * Simone Alves Nogueira
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
 
 <br>
 <dl>
